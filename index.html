@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+  <title>HELLXV FREE VAPE</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif;
+    }
+
+    body {
+      background-color: #080808;
+      color: #ffffff;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    #app {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .catalog-view {
+      display: block;
+    }
+
+    .admin-view {
+      display: none;
+      padding: 32px 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 0 24px;
+      width: 100%;
+    }
+
+    .top-bar {
+      display: flex;
+      justify-content: flex-end;
+      padding: 20px 0;
+      position: sticky;
+      top: 0;
+      background-color: rgba(8, 8, 8, 0.95);
+      backdrop-filter: blur(8px);
+      z-index: 40;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .cart-icon {
+      background: none;
+      border: 1px solid #2a2a2a;
+      background-color: #0f0f0f;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 40px;
+      font-size: 16px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .cart-icon:hover {
+      border-color: #ff2a2a;
+      background-color: #1a1a1a;
+    }
+
+    .cart-count {
+      background-color: #ff2a2a;
+      color: white;
+      border-radius: 20px;
+      padding: 2px 10px;
+      font-size: 14px;
+      font-weight: 600;
+      margin-left: 6px;
+    }
+
+    .store-title {
+      color: white;
+      font-size: 32px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      letter-spacing: -0.02em;
+    }
+
+    .filter-section {
+      margin: 24px 0 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .filter-btn {
+      background: transparent;
+      border: 1px solid #2a2a2a;
+      color: #aaa;
+      padding: 10px 24px;
+      border-radius: 40px;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      background-color: #0c0c0c;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .filter-btn:hover {
+      border-color: #ff2a2a;
+      color: #fff;
+    }
+
+    .filter-btn.active {
+      background-color: #ff2a2a;
+      border-color: #ff2a2a;
+      color: white;
+    }
+
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 28px;
+      margin: 20px 0 60px;
+    }
+
+    .product-card {
+      background-color: #0e0e0e;
+      border-radius: 24px;
+      overflow: hidden;
+      border: 1px solid #1f1f1f;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .product-card:hover {
+      border-color: #3a3a3a;
+      transform: translateY(-4px);
+    }
+
+    .product-img {
+      aspect-ratio: 1 / 1;
+      width: 100%;
+      background-color: #141414;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .product-img img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      transition: transform 0.3s;
+    }
+
+    .product-info {
+      padding: 20px 18px 22px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .product-name {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: white;
+      letter-spacing: -0.01em;
+    }
+
+    .product-desc {
+      font-size: 13px;
+      color: #999;
+      margin-bottom: 16px;
+      line-height: 1.4;
+      flex-grow: 1;
+    }
+
+    .product-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 8px;
+    }
+
+    .product-price {
+      font-size: 22px;
+      font-weight: 700;
+      color: #ff2a2a;
+    }
+
+    .product-price small {
+      font-size: 14px;
+      font-weight: 400;
+      color: #777;
+    }
+
+    .add-to-cart {
+      background-color: #1c1c1c;
+      border: 1px solid #333;
+      color: white;
+      padding: 10px 18px;
+      border-radius: 40px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .add-to-cart:hover {
+      background-color: #ff2a2a;
+      border-color: #ff2a2a;
+    }
+
+    .cart-panel {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 100%;
+      max-width: 420px;
+      height: 100vh;
+      background-color: #0c0c0c;
+      box-shadow: -10px 0 30px rgba(0, 0, 0, 0.8);
+      z-index: 100;
+      transform: translateX(100%);
+      transition: transform 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      border-left: 1px solid #2a2a2a;
+    }
+
+    .cart-panel.open {
+      transform: translateX(0);
+    }
+
+    .cart-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.7);
+      z-index: 90;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s ease, visibility 0.3s;
+      backdrop-filter: blur(3px);
+    }
+
+    .cart-overlay.open {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .cart-header {
+      padding: 24px 24px 16px;
+      border-bottom: 1px solid #222;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .cart-header h3 {
+      font-size: 22px;
+      font-weight: 600;
+      color: white;
+    }
+
+    .close-cart {
+      background: none;
+      border: none;
+      color: #aaa;
+      font-size: 28px;
+      cursor: pointer;
+      padding: 0 8px;
+    }
+
+    .cart-items {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px 24px;
+    }
+
+    .cart-item {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 16px 0;
+      border-bottom: 1px solid #1e1e1e;
+    }
+
+    .cart-item-img {
+      width: 60px;
+      height: 60px;
+      background-color: #141414;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .cart-item-img img {
+      max-width: 90%;
+      max-height: 90%;
+      object-fit: contain;
+    }
+
+    .cart-item-info {
+      flex: 1;
+    }
+
+    .cart-item-name {
+      font-weight: 500;
+      color: white;
+      margin-bottom: 4px;
+    }
+
+    .cart-item-price {
+      color: #ff2a2a;
+      font-weight: 600;
+    }
+
+    .cart-item-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .cart-item-qty {
+      color: #aaa;
+      font-size: 15px;
+    }
+
+    .remove-item {
+      background: none;
+      border: none;
+      color: #888;
+      font-size: 20px;
+      cursor: pointer;
+      padding: 4px 8px;
+    }
+
+    .cart-footer {
+      padding: 24px;
+      border-top: 1px solid #222;
+    }
+
+    .cart-total {
+      display: flex;
+      justify-content: space-between;
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 20px;
+      color: white;
+    }
+
+    .checkout-btn {
+      width: 100%;
+      background-color: #ff2a2a;
+      border: none;
+      color: white;
+      padding: 16px;
+      border-radius: 40px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .checkout-btn:hover {
+      background-color: #e01414;
+    }
+
+    .empty-cart-msg {
+      text-align: center;
+      color: #777;
+      padding: 40px 0;
+      font-size: 16px;
+    }
+
+    .login-form {
+      max-width: 320px;
+      margin: 80px auto;
+      background: #0e0e0e;
+      padding: 32px;
+      border-radius: 24px;
+      border: 1px solid #2a2a2a;
+    }
+
+    .login-form h2 {
+      margin-bottom: 24px;
+      color: #ff2a2a;
+      text-align: center;
+    }
+
+    .login-form input {
+      width: 100%;
+      padding: 14px 16px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 12px;
+      color: white;
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+
+    .login-form button {
+      width: 100%;
+      padding: 14px;
+      background: #ff2a2a;
+      border: none;
+      color: white;
+      border-radius: 40px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .admin-panel {
+      background: #0e0e0e;
+      border-radius: 24px;
+      padding: 24px;
+      border: 1px solid #2a2a2a;
+    }
+
+    .admin-section {
+      margin-bottom: 32px;
+    }
+
+    .admin-section h3 {
+      color: #ff2a2a;
+      margin-bottom: 16px;
+      font-size: 20px;
+    }
+
+    .admin-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .admin-table th, .admin-table td {
+      text-align: left;
+      padding: 12px 8px;
+      border-bottom: 1px solid #222;
+    }
+
+    .admin-table th {
+      color: #aaa;
+      font-weight: 500;
+    }
+
+    .admin-btn {
+      background: #1c1c1c;
+      border: 1px solid #333;
+      color: white;
+      padding: 8px 16px;
+      border-radius: 20px;
+      margin-right: 8px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .admin-btn.danger {
+      background: #ff2a2a;
+      border-color: #ff2a2a;
+    }
+
+    .admin-form {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 16px;
+    }
+
+    .admin-form input, .admin-form select {
+      background: #1a1a1a;
+      border: 1px solid #333;
+      padding: 12px;
+      border-radius: 12px;
+      color: white;
+      width: 100%;
+    }
+
+    .admin-form button {
+      grid-column: span 2;
+      background: #ff2a2a;
+      border: none;
+      padding: 14px;
+      border-radius: 40px;
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 20px;
+      color: #ff2a2a;
+      text-decoration: none;
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        padding: 0 16px;
+      }
+      .products-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+      }
+      .product-name {
+        font-size: 16px;
+      }
+      .product-price {
+        font-size: 18px;
+      }
+      .cart-panel {
+        max-width: 100%;
+      }
+      .admin-form {
+        grid-template-columns: 1fr;
+      }
+      .admin-form button {
+        grid-column: span 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="catalogView" class="catalog-view">
+      <div class="top-bar">
+        <div class="container" style="display: flex; justify-content: flex-end;">
+          <button class="cart-icon" id="cartToggleBtn">
+            <span>🛒</span> Корзина
+            <span class="cart-count" id="cartCount">0</span>
+          </button>
+        </div>
+      </div>
+      <main class="container">
+        <h1 class="store-title">HELLXV FREE VAPE</h1>
+        <div class="filter-section">
+          <button class="filter-btn active" data-filter="all">Все товары</button>
+          <button class="filter-btn" data-filter="disposable">Одноразки</button>
+          <button class="filter-btn" data-filter="pods">Подики</button>
+          <button class="filter-btn" data-filter="liquid">Расходники</button>
+        </div>
+        <div id="productsContainer" class="products-grid"></div>
+      </main>
+    </div>
+
+    <div id="adminView" class="admin-view"></div>
+  </div>
+
+  <div class="cart-overlay" id="cartOverlay"></div>
+  <div class="cart-panel" id="cartPanel">
+    <div class="cart-header">
+      <h3>Корзина</h3>
+      <button class="close-cart" id="closeCartBtn">&times;</button>
+    </div>
+    <div class="cart-items" id="cartItemsContainer">
+      <div class="empty-cart-msg">Корзина пуста</div>
+    </div>
+    <div class="cart-footer">
+      <div class="cart-total">
+        <span>Итого:</span>
+        <span id="cartTotalPrice">0 ₽</span>
+      </div>
+      <button class="checkout-btn" id="checkoutBtn">Оформить заказ</button>
+    </div>
+  </div>
+
+  <script>
+    (function(){
+      let products = [];
+      let cart = [];
+      let activeFilter = 'all';
+      let adminPassword = '123';
+      let isAdminAuthenticated = false;
+
+      const STORAGE_PRODUCTS = 'hellxv_products';
+      const STORAGE_CART = 'hellxv_cart';
+      const STORAGE_CONFIG = 'hellxv_config';
+
+      function loadConfig() {
+        const saved = localStorage.getItem(STORAGE_CONFIG);
+        if (saved) {
+          try {
+            const cfg = JSON.parse(saved);
+            adminPassword = cfg.adminPassword || '123';
+          } catch(e) {}
+        }
+      }
+
+      function saveConfig() {
+        localStorage.setItem(STORAGE_CONFIG, JSON.stringify({ adminPassword }));
+      }
+
+      function loadProducts() {
+        const saved = localStorage.getItem(STORAGE_PRODUCTS);
+        if (saved) {
+          try {
+            products = JSON.parse(saved);
+          } catch(e) {
+            products = [{ id: 1, name: "Бурмалда", price: 67, category: "disposable", desc: "", img: "" }];
+          }
+        } else {
+          products = [{ id: 1, name: "Бурмалда", price: 67, category: "disposable", desc: "", img: "" }];
+        }
+        saveProducts();
+      }
+
+      function saveProducts() {
+        localStorage.setItem(STORAGE_PRODUCTS, JSON.stringify(products));
+      }
+
+      function loadCart() {
+        const saved = localStorage.getItem(STORAGE_CART);
+        if (saved) {
+          try {
+            cart = JSON.parse(saved);
+          } catch(e) { cart = []; }
+        } else {
+          cart = [];
+        }
+      }
+
+      function saveCart() {
+        localStorage.setItem(STORAGE_CART, JSON.stringify(cart));
+      }
+
+      function updateCartUI() {
+        const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);
+        document.getElementById('cartCount').textContent = totalItems;
+        const totalPrice = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+        document.getElementById('cartTotalPrice').textContent = totalPrice + ' ₽';
+        const container = document.getElementById('cartItemsContainer');
+        if (cart.length === 0) {
+          container.innerHTML = '<div class="empty-cart-msg">Корзина пуста</div>';
+          return;
+        }
+        let html = '';
+        cart.forEach(item => {
+          html += `<div class="cart-item">
+            <div class="cart-item-img"><img src="${item.img}" onerror="this.src='https://via.placeholder.com/60/222/ff2a2a?text=HELLXV'"></div>
+            <div class="cart-item-info"><div class="cart-item-name">${item.name}</div><div class="cart-item-price">${item.price} ₽</div></div>
+            <div class="cart-item-actions"><span class="cart-item-qty">${item.quantity} шт.</span><button class="remove-item" data-id="${item.id}">✕</button></div>
+          </div>`;
+        });
+        container.innerHTML = html;
+        document.querySelectorAll('.remove-item').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const id = Number(e.currentTarget.dataset.id);
+            cart = cart.filter(item => item.id !== id);
+            saveCart();
+            updateCartUI();
+            if (activeFilter) renderProducts(activeFilter);
+          });
+        });
+      }
+
+      function addToCart(product) {
+        const existing = cart.find(item => item.id === product.id);
+        if (existing) {
+          existing.quantity += 1;
+        } else {
+          cart.push({ ...product, quantity: 1 });
+        }
+        saveCart();
+        updateCartUI();
+      }
+
+      function renderProducts(filterCategory = 'all') {
+        const filtered = filterCategory === 'all' ? products : products.filter(p => p.category === filterCategory);
+        const container = document.getElementById('productsContainer');
+        if (filtered.length === 0) {
+          container.innerHTML = '<div style="grid-column:1/-1; text-align:center; padding:40px; color:#777;">Товары не найдены</div>';
+          return;
+        }
+        let html = '';
+        filtered.forEach(prod => {
+          html += `<div class="product-card">
+            <div class="product-img"><img src="${prod.img}" alt="${prod.name}" loading="lazy" onerror="this.src='https://via.placeholder.com/300/1a1a1a/ff2a2a?text=${encodeURIComponent(prod.name)}'"></div>
+            <div class="product-info">
+              <div class="product-name">${prod.name}</div>
+              <div class="product-desc">${prod.desc}</div>
+              <div class="product-footer">
+                <span class="product-price">${prod.price} <small>₽</small></span>
+                <button class="add-to-cart" data-id="${prod.id}">В корзину</button>
+              </div>
+            </div>
+          </div>`;
+        });
+        container.innerHTML = html;
+        document.querySelectorAll('.add-to-cart').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const id = Number(e.currentTarget.dataset.id);
+            const product = products.find(p => p.id === id);
+            if (product) addToCart(product);
+          });
+        });
+      }
+
+      function openCart() {
+        document.getElementById('cartPanel').classList.add('open');
+        document.getElementById('cartOverlay').classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeCart() {
+        document.getElementById('cartPanel').classList.remove('open');
+        document.getElementById('cartOverlay').classList.remove('open');
+        document.body.style.overflow = '';
+      }
+
+      function setActiveFilter(filterValue) {
+        activeFilter = filterValue;
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.filter === filterValue);
+        });
+        renderProducts(filterValue);
+      }
+
+      function handleCheckout() {
+        if (cart.length === 0) {
+          alert('Корзина пуста');
+          return;
+        }
+        const itemsList = cart.map(item => `${item.name} (${item.quantity} шт.)`).join(', ');
+        const total = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+        const message = `Здравствуйте! Хочу заказать у вас товар ${itemsList}. Сумма заказа - ${total} ₽`;
+        const encoded = encodeURIComponent(message);
+        window.open(`https://t.me/vcsax?text=${encoded}`, '_blank');
+        cart = [];
+        saveCart();
+        updateCartUI();
+        renderProducts(activeFilter);
+        closeCart();
+      }
+
+      function renderAdminPanel() {
+        const view = document.getElementById('adminView');
+        if (!isAdminAuthenticated) {
+          view.innerHTML = `
+            <div class="login-form">
+              <h2>Админ-панель</h2>
+              <input type="password" id="adminPasswordInput" placeholder="Пароль">
+              <button id="loginBtn">Войти</button>
+            </div>
+          `;
+          document.getElementById('loginBtn').addEventListener('click', () => {
+            const pwd = document.getElementById('adminPasswordInput').value;
+            if (pwd === adminPassword) {
+              isAdminAuthenticated = true;
+              renderAdminPanel();
+            } else {
+              alert('Неверный пароль');
+            }
+          });
+          return;
+        }
+
+        let productsHtml = '';
+        products.forEach(p => {
+          productsHtml += `<tr>
+            <td>${p.id}</td><td>${p.name}</td><td>${p.price} ₽</td><td>${p.category}</td>
+            <td>
+              <button class="admin-btn" data-edit="${p.id}">✎</button>
+              <button class="admin-btn danger" data-delete="${p.id}">✕</button>
+            </td>
+          </tr>`;
+        });
+
+        view.innerHTML = `
+          <div class="admin-panel">
+            <a href="#" class="back-link" id="exitAdminBtn">← Выйти из панели</a>
+            <div class="admin-section">
+              <h3>Настройки</h3>
+              <div style="display:flex; gap:20px; flex-wrap:wrap;">
+                <div style="flex:1;"><label>Новый пароль</label><input id="newPasswordInput" type="password" placeholder="Оставьте пустым" style="margin-top:8px;"></div>
+              </div>
+              <button class="admin-btn" id="saveSettingsBtn" style="margin-top:16px;">Сохранить пароль</button>
+            </div>
+            <div class="admin-section">
+              <h3>Добавить товар</h3>
+              <div class="admin-form">
+                <input type="text" id="newName" placeholder="Название">
+                <input type="number" id="newPrice" placeholder="Цена">
+                <input type="text" id="newDesc" placeholder="Описание">
+                <input type="text" id="newImg" placeholder="URL картинки">
+                <select id="newCategory">
+                  <option value="disposable">Одноразки</option>
+                  <option value="pods">Подики</option>
+                  <option value="liquid">Расходники</option>
+                </select>
+                <button id="addProductBtn">Добавить товар</button>
+              </div>
+            </div>
+            <div class="admin-section">
+              <h3>Список товаров</h3>
+              <table class="admin-table">
+                <thead><tr><th>ID</th><th>Название</th><th>Цена</th><th>Категория</th><th>Действия</th></tr></thead>
+                <tbody>${productsHtml}</tbody>
+              </table>
+            </div>
+            <div id="editFormContainer" style="margin-top:20px;"></div>
+          </div>
+        `;
+
+        document.getElementById('exitAdminBtn').addEventListener('click', (e) => {
+          e.preventDefault();
+          window.location.hash = '';
+          isAdminAuthenticated = false;
+          switchView();
+        });
+
+        document.getElementById('saveSettingsBtn').addEventListener('click', () => {
+          const newPwd = document.getElementById('newPasswordInput').value;
+          if (newPwd) adminPassword = newPwd;
+          saveConfig();
+          alert('Пароль сохранён');
+        });
+
+        document.getElementById('addProductBtn').addEventListener('click', () => {
+          const name = document.getElementById('newName').value.trim();
+          const price = parseInt(document.getElementById('newPrice').value);
+          const desc = document.getElementById('newDesc').value.trim();
+          const img = document.getElementById('newImg').value.trim();
+          const category = document.getElementById('newCategory').value;
+          if (!name || !price || !img) { alert('Заполните название, цену и картинку'); return; }
+          const newId = Math.max(...products.map(p => p.id), 0) + 1;
+          products.push({ id: newId, name, price, category, desc, img });
+          saveProducts();
+          renderAdminPanel();
+          if (activeFilter) renderProducts(activeFilter);
+        });
+
+        document.querySelectorAll('[data-delete]').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const id = Number(e.currentTarget.dataset.delete);
+            products = products.filter(p => p.id !== id);
+            saveProducts();
+            renderAdminPanel();
+            if (activeFilter) renderProducts(activeFilter);
+          });
+        });
+
+        document.querySelectorAll('[data-edit]').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            const id = Number(e.currentTarget.dataset.edit);
+            const product = products.find(p => p.id === id);
+            if (!product) return;
+            const container = document.getElementById('editFormContainer');
+            container.innerHTML = `
+              <div class="admin-section">
+                <h3>Редактировать товар #${id}</h3>
+                <div class="admin-form">
+                  <input type="text" id="editName" value="${product.name}">
+                  <input type="number" id="editPrice" value="${product.price}">
+                  <input type="text" id="editDesc" value="${product.desc}">
+                  <input type="text" id="editImg" value="${product.img}">
+                  <select id="editCategory">
+                    <option value="disposable" ${product.category==='disposable'?'selected':''}>Одноразки</option>
+                    <option value="pods" ${product.category==='pods'?'selected':''}>Подики</option>
+                    <option value="liquid" ${product.category==='liquid'?'selected':''}>Расходники</option>
+                  </select>
+                  <button id="updateProductBtn">Обновить</button>
+                  <button id="cancelEditBtn" class="admin-btn">Отмена</button>
+                </div>
+              </div>
+            `;
+            document.getElementById('updateProductBtn').addEventListener('click', () => {
+              product.name = document.getElementById('editName').value;
+              product.price = parseInt(document.getElementById('editPrice').value);
+              product.desc = document.getElementById('editDesc').value;
+              product.img = document.getElementById('editImg').value;
+              product.category = document.getElementById('editCategory').value;
+              saveProducts();
+              renderAdminPanel();
+              if (activeFilter) renderProducts(activeFilter);
+            });
+            document.getElementById('cancelEditBtn').addEventListener('click', () => {
+              container.innerHTML = '';
+            });
+          });
+        });
+      }
+
+      function switchView() {
+        const hash = window.location.hash;
+        const catalogView = document.getElementById('catalogView');
+        const adminView = document.getElementById('adminView');
+        if (hash === '#panel') {
+          catalogView.style.display = 'none';
+          adminView.style.display = 'block';
+          renderAdminPanel();
+        } else {
+          catalogView.style.display = 'block';
+          adminView.style.display = 'none';
+          isAdminAuthenticated = false;
+          renderProducts(activeFilter);
+        }
+      }
+
+      function init() {
+        loadConfig();
+        loadProducts();
+        loadCart();
+        updateCartUI();
+        
+        window.addEventListener('hashchange', switchView);
+        switchView();
+
+        document.getElementById('cartToggleBtn').addEventListener('click', openCart);
+        document.getElementById('closeCartBtn').addEventListener('click', closeCart);
+        document.getElementById('cartOverlay').addEventListener('click', closeCart);
+        document.getElementById('checkoutBtn').addEventListener('click', handleCheckout);
+
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+          btn.addEventListener('click', () => setActiveFilter(btn.dataset.filter));
+        });
+
+        window.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape' && document.getElementById('cartPanel').classList.contains('open')) {
+            closeCart();
+          }
+        });
+      }
+
+      init();
+    })();
+  </script>
+</body>
+</html>
