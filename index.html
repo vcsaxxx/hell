@@ -557,8 +557,10 @@
         <div class="filter-section">
           <button class="filter-btn active" data-filter="all">Все товары</button>
           <button class="filter-btn" data-filter="disposable">Одноразки</button>
-          <button class="filter-btn" data-filter="pods">Подики</button>
+          <button class="filter-btn" data-filter="devices">Устройства</button>
           <button class="filter-btn" data-filter="liquid">Расходники</button>
+          <button class="filter-btn" data-filter="sale">Акции</button>
+          <button class="filter-btn" data-filter="juice">Жижи</button>
         </div>
         <div id="productsContainer" class="products-grid"></div>
       </main>
@@ -805,8 +807,10 @@
                 <input type="text" id="newImg" placeholder="URL картинки">
                 <select id="newCategory">
                   <option value="disposable">Одноразки</option>
-                  <option value="pods">Подики</option>
+                  <option value="devices">Устройства</option>
                   <option value="liquid">Расходники</option>
+                  <option value="sale">Акции</option>
+                  <option value="juice">Жижи</option>
                 </select>
                 <button id="addProductBtn">Добавить товар</button>
               </div>
@@ -876,8 +880,10 @@
                   <input type="text" id="editImg" value="${product.img}">
                   <select id="editCategory">
                     <option value="disposable" ${product.category==='disposable'?'selected':''}>Одноразки</option>
-                    <option value="pods" ${product.category==='pods'?'selected':''}>Подики</option>
+                    <option value="devices" ${product.category==='devices'?'selected':''}>Устройства</option>
                     <option value="liquid" ${product.category==='liquid'?'selected':''}>Расходники</option>
+                    <option value="sale" ${product.category==='sale'?'selected':''}>Акции</option>
+                    <option value="juice" ${product.category==='juice'?'selected':''}>Жижи</option>
                   </select>
                   <button id="updateProductBtn">Обновить</button>
                   <button id="cancelEditBtn" class="admin-btn">Отмена</button>
