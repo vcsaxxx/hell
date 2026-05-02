@@ -747,7 +747,7 @@
         const total = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
         const message = `Здравствуйте! Хочу заказать у вас товар ${itemsList}. Сумма заказа - ${total} ₽`;
         const encoded = encodeURIComponent(message);
-        window.open(`https://t.me/vcsax?text=${encoded}`, '_blank');
+        window.open(`https://t.me/FREE_VAPE_MSK_MANAGER?text=${encoded}`, '_blank');
         cart = [];
         saveCart();
         updateCartUI();
