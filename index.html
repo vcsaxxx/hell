@@ -572,7 +572,7 @@
 
       async function loadProducts() {
         try {
-          const response = await fetch(PRODUCTS_JSON_URL);
+          const response = await fetch(PRODUCTS_JSON_URL, { cache: 'no-store' });
           if (!response.ok) throw new Error('Failed to fetch');
           products = await response.json();
           localStorage.setItem(STORAGE_PRODUCTS, JSON.stringify(products));
@@ -776,7 +776,11 @@
           );
 
           if (putResp.ok) {
-            statusEl.textContent = 'Опубликовано! Обновление появится через минуту.';
+            statusEl.innerHTML = 'Опубликовано! Сайт обновится для посетителей через 1–3 минуты. <a href="#" id="reloadNowLink">Обновить страницу сейчас</a>';
+            document.getElementById('reloadNowLink').addEventListener('click', (e) => {
+              e.preventDefault();
+              location.reload();
+            });
           } else {
             const errText = await putResp.text();
             statusEl.textContent = `Ошибка: ${putResp.status} ${errText}`;
