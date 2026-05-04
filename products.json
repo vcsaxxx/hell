@@ -6,5 +6,13 @@
     "category": "sale",
     "desc": "dghj",
     "img": "https://i.ibb.co/mrbB58Ns/photo-7-2026-04-09-14-18-31.jpg"
+  },
+  {
+    "id": 3,
+    "name": "123",
+    "price": 666,
+    "category": "liquid",
+    "desc": "fdg",
+    "img": "https://i.ibb.co/mrbB58Ns/photo-7-2026-04-09-14-18-31.jpg"
   }
 ]
