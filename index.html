@@ -531,13 +531,10 @@
 
   <script>
     (function(){
-      // ---------- НАСТРОЙКИ GITHUB ----------
-      const GITHUB_TOKEN = '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';           // замени на свой токен
-      const REPO_OWNER = 'vcsaxxx';                // замени на владельца репозитория
-      const REPO_NAME = 'hell';                     // замени на название репозитория
-      const BRANCH = 'main';                      // замени на ветку (main, gh-pages)
-      const FILE_PATH = 'products.json';                 // путь к JSON-файлу в репозитории
-      // ------------------------------------
+      const REPO_OWNER = 'YOUR_USERNAME';
+      const REPO_NAME = 'YOUR_REPO';
+      const BRANCH = 'YOUR_BRANCH';
+      const FILE_PATH = 'products.json';
 
       let products = [];
       let cart = [];
@@ -548,6 +545,7 @@
       const STORAGE_PRODUCTS = 'hellxv_products';
       const STORAGE_CART = 'hellxv_cart';
       const STORAGE_CONFIG = 'hellxv_config';
+      const STORAGE_TOKEN = 'hellxv_github_token';
       const PRODUCTS_JSON_URL = 'products.json';
 
       function loadConfig() {
@@ -562,6 +560,14 @@
 
       function saveConfig() {
         localStorage.setItem(STORAGE_CONFIG, JSON.stringify({ adminPassword }));
+      }
+
+      function getGithubToken() {
+        return localStorage.getItem(STORAGE_TOKEN);
+      }
+
+      function setGithubToken(token) {
+        localStorage.setItem(STORAGE_TOKEN, token);
       }
 
       async function loadProducts() {
@@ -713,21 +719,25 @@
       }
 
       async function publishToGitHub() {
+        const token = getGithubToken();
+        if (!token) {
+          document.getElementById('publishStatus').textContent = 'Сначала сохраните токен в настройках';
+          return;
+        }
+
         const statusEl = document.getElementById('publishStatus');
         statusEl.textContent = 'Публикация...';
 
         const content = JSON.stringify(products, null, 2);
-        // Преобразуем в Base64 с поддержкой UTF-8
         const base64Content = btoa(unescape(encodeURIComponent(content)));
 
-        // Получаем текущий sha файла (если существует)
         let sha = null;
         try {
           const getResp = await fetch(
             `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}?ref=${BRANCH}`,
             {
               headers: {
-                Authorization: `Bearer ${GITHUB_TOKEN}`,
+                Authorization: `Bearer ${token}`,
                 'User-Agent': 'HellXV-Admin'
               }
             }
@@ -757,7 +767,7 @@
             {
               method: 'PUT',
               headers: {
-                Authorization: `Bearer ${GITHUB_TOKEN}`,
+                Authorization: `Bearer ${token}`,
                 'User-Agent': 'HellXV-Admin',
                 'Content-Type': 'application/json'
               },
@@ -809,6 +819,8 @@
           </tr>`;
         });
 
+        const savedToken = getGithubToken() || '';
+
         view.innerHTML = `
           <div class="admin-panel">
             <a href="#" class="back-link" id="exitAdminBtn">← Выйти из панели</a>
@@ -816,8 +828,9 @@
               <h3>Настройки</h3>
               <div style="display:flex; gap:20px; flex-wrap:wrap;">
                 <div style="flex:1;"><label>Новый пароль</label><input id="newPasswordInput" type="password" placeholder="Оставьте пустым" style="margin-top:8px;"></div>
+                <div style="flex:1;"><label>GitHub токен</label><input id="githubTokenInput" type="password" placeholder="ghp_..." value="${savedToken}" style="margin-top:8px;"></div>
               </div>
-              <button class="admin-btn" id="saveSettingsBtn" style="margin-top:16px;">Сохранить пароль</button>
+              <button class="admin-btn" id="saveSettingsBtn" style="margin-top:16px;">Сохранить настройки</button>
             </div>
             <div class="admin-section">
               <h3>Добавить товар</h3>
@@ -863,8 +876,10 @@
         document.getElementById('saveSettingsBtn').addEventListener('click', () => {
           const newPwd = document.getElementById('newPasswordInput').value;
           if (newPwd) adminPassword = newPwd;
+          const token = document.getElementById('githubTokenInput').value.trim();
+          if (token) setGithubToken(token);
           saveConfig();
-          alert('Пароль сохранён');
+          alert('Настройки сохранены');
         });
 
         document.getElementById('addProductBtn').addEventListener('click', () => {
