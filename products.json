@@ -6,5 +6,261 @@
     "category": "disposable",
     "desc": "вкусы уточнять в лс",
     "img": "https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Fstatic.insales-cdn.com%2Fimages%2Fproducts%2F1%2F5889%2F1954191105%2F2.1-waka-sopro-20000-category-banner.jpg&text=вака+сопро+20000&rpt=simage&lr=29392"
+  },
+  {
+    "id": 2,
+    "name": "PASITO 2",
+    "price": 2350,
+    "category": "devices",
+    "desc": "цвета уточнять в лс",
+    "img": "https://yandex.ru/images/search?p=1&text=пасито+2&pos=29&rpt=simage&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb-TOKajHGRE%2Fmaxresdefault.jpg&from=tabbar&lr=29392"
+  },
+  {
+    "id": 3,
+    "name": "AEGIS HERO 2 (Н45)",
+    "price": 2300,
+    "category": "devices",
+    "desc": "цвета уточнять в лс",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/cce17351-3028-470b-b57d-d49b761c6398?temp_url_sig=35208edb6ccadb0031ac9d7b5218ffebfb0dd18b&temp_url_expires=1777991533&filename=53B96C63-5A68-4C3A-8EE6-B26C609810FE.jpg"
+  },
+  {
+    "id": 4,
+    "name": "AEGIS BOOST 2 (B60)",
+    "price": 2500,
+    "category": "devices",
+    "desc": "цвета уточнять в лс",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/e10df354-e7b2-4dee-908d-de59c47902a2"
+  },
+  {
+    "id": 5,
+    "name": "AEGIS HERO 5!!!!",
+    "price": 2400,
+    "category": "devices",
+    "desc": "цвета уточнять в лс",
+    "img": "https://yandex.ru/images/search?text=хиро+5+под-система&pos=5&rpt=simage&img_url=https%3A%2F%2Fossus.geekvape.com%2Fproducts%2FHero5%2Fp11.jpg%3Fv%3D0.12&from=tabbar&lr=213"
+  },
+  {
+    "id": 6,
+    "name": "AEGIS HERO CLASSIC (H45)",
+    "price": 2250,
+    "category": "devices",
+    "desc": "Цвета уточнять в лс",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/e9cd8daf-d740-4c36-9702-e45f427d2ae7?temp_url_sig=7ea0de58f53eaa10b9692aabd4ae85f5d5a06cc2&temp_url_expires=1777991798&filename=C391B801-6A25-4CE8-9883-D0B55AC5A641.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Smoant Pasito 3",
+    "price": 2750,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/2346edea-703c-4fbd-b34d-1d91a29579b1?temp_url_sig=f16492e5a1391a97190a38b658a57130c0e5b811&temp_url_expires=1777991935&filename=elektronnaya-sigareta-smoant-pasito-3-pod-kit-color.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Vaporesso XROS 5 Kit",
+    "price": 1650,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=6c49349cf04f09201df44c0e0890d97207e930ab-12422391-images-thumbs&n=13"
+  },
+  {
+    "id": 9,
+    "name": "Vaporesso XROS 5 mini",
+    "price": 1400,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=f2329d820ac07a568a3685626a08d8be9d36c333-5859023-images-thumbs&n=13"
+  },
+  {
+    "id": 10,
+    "name": "Vaporesso Xros 3 mini",
+    "price": 1200,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=8e04808aede16f912790e9b54a501cb85eb76d24-5500260-images-thumbs&n=13"
+  },
+  {
+    "id": 11,
+    "name": "Vaporesso Xros 4 mini",
+    "price": 1250,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://indavape.ru/product/nabor-vaporesso-xros-4-mini-pod-kit?ysclid=mosqnxzw2n461328806"
+  },
+  {
+    "id": 12,
+    "name": "Vaporesso XROS Mini",
+    "price": 1000,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=2faf754d1001c5b5efec3d08707afcf4f2640669-9217732-images-thumbs&n=13"
+  },
+  {
+    "id": 13,
+    "name": "ANNIMA LOVE MISIDE 70мг",
+    "price": 360,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/3e566d59-324a-4936-9f2b-72017f96541b?temp_url_sig=db69dbc2bc1deca153351fa3c9b276e95ba77ca7&temp_url_expires=1777992437&filename=photo_2026-04-24_00-01-46.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Duall EXTRA hard",
+    "price": 350,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/8efba07e-d351-4ab8-bd6e-1db38f31617c?temp_url_sig=9934ae3915e7e23dcb0ed0510124d98e669f8595&temp_url_expires=1777992534&filename=97F54F32-5C21-4F6C-9E77-C4FC2934617C.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Duall Extreme Extra Hard",
+    "price": 360,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/37e9ab29-564b-4ac5-b751-9d8af682340f?temp_url_sig=597fd7555100d30bdb50d17860900b293b4a3d4d&temp_url_expires=1777992569&filename=847C9287-2367-45C9-AC1D-3FAA685A6A81.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Duall salt hard",
+    "price": 350,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/fead35f7-128b-4cda-afd2-8b8f5c6048aa?temp_url_sig=5de2d14eaca70690144fce3859d1e7723abad5e8&temp_url_expires=1777992603&filename=34066209-6829-4563-83C1-349B0E8BE261.jpg"
+  },
+  {
+    "id": 17,
+    "name": "ИНДИВИDUALL hard",
+    "price": 350,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/fcc2a0f9-a2e0-4f34-8571-a281eb519f8b?temp_url_sig=4a1566479c508f89b75f4e689c0537e608f00e4f&temp_url_expires=1777992624&filename=EA2198AD-2F40-46C5-A19A-30464185B351.jpg"
+  },
+  {
+    "id": 18,
+    "name": "HOTSPOT ICE",
+    "price": 320,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/8ce99d57-e4d8-4f09-b50c-288b25ff5d09?temp_url_sig=f4b5fb4dd9e66be684c0325bb24585150bbb589f&temp_url_expires=1777992689&filename=айс%20хотспот.jpg"
+  },
+  {
+    "id": 19,
+    "name": "HUSKY&МИШКИ",
+    "price": 350,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/0fe89843-b620-4367-9449-5fce6379d455?temp_url_sig=9d20fbd34c9e0f11799000116dc48cf56fb0bc26&temp_url_expires=1777992714&filename=170794.arbuz-klubnika-mishka-kh-husky-salt.750x0.jpg"
+  },
+  {
+    "id": 20,
+    "name": "MONSTERVAPOR 20mg",
+    "price": 360,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/6b6add03-1a19-4558-a5ef-d4a5203ab4aa?temp_url_sig=9381681ee1c4479411aededfac1a7820b473fab6&temp_url_expires=1777992826&filename=zhidkost-monster-vapor-30ml-ultra-baba-banana-grusha-banan-led.jpg"
+  },
+  {
+    "id": 21,
+    "name": "MONSTERVAPOR 50mg",
+    "price": 370,
+    "category": "juice",
+    "desc": "вкусы в лс",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/b44715af-0547-4b24-8771-0031595bc76c?temp_url_sig=69e6070a98574fb8e7b01c569520824bd956997b&temp_url_expires=1777992912&filename=e2b729d5dfa411ee9b0c309c23b36407_cc541c2ce2bd11ee9b0c309c23b36407.jpg"
+  },
+  {
+    "id": 22,
+    "name": "NARCOZ 20mg",
+    "price": 330,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=087553920a8b19c5e26fe3f0b8ba0e8f6027e7a8-10995463-images-thumbs&n=13"
+  },
+  {
+    "id": 23,
+    "name": "NARCOZ 50mg",
+    "price": 350,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=6f7dc619171716b5914fabcf4977e7a5181aff8d-9833563-images-thumbs&n=13"
+  },
+  {
+    "id": 24,
+    "name": "Злая монашка 70mg",
+    "price": 350,
+    "category": "juice",
+    "desc": "вкусы уточнять",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/a5d89875-1467-4bbb-906e-1107fd248315?temp_url_sig=6094c98e70d25df3edca8223c61bba2917069d65&temp_url_expires=1777993064&filename=13968_big.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Испаритель Aegis hero b-seriеs",
+    "price": 280,
+    "category": "liquid",
+    "desc": "0.2 ом (50-58)ватт",
+    "img": "https://avatars.mds.yandex.net/i?id=6022e989bba4b5cde5d54302df93f9988fe5e121-5669034-images-thumbs&n=13"
+  },
+  {
+    "id": 26,
+    "name": "Испаритель Aegis hero b-series",
+    "price": 260,
+    "category": "liquid",
+    "desc": "0.3ом (30-38W)",
+    "img": "https://avatars.mds.yandex.net/i?id=ada954f430079cc41d5889d4b2068a6b-5523828-images-thumbs&n=13"
+  },
+  {
+    "id": 27,
+    "name": "Испаритель Aegis hero b-series",
+    "price": 260,
+    "category": "liquid",
+    "desc": "0.4ом (25-35W)",
+    "img": "https://avatars.mds.yandex.net/i?id=5aa77cc963b372435e6868c996da2e6e22e4dc45-10836596-images-thumbs&n=13"
+  },
+  {
+    "id": 28,
+    "name": "Картридж GeekVape Aegis HERO 5",
+    "price": 370,
+    "category": "liquid",
+    "desc": "6.5 мл.",
+    "img": "https://avatars.mds.yandex.net/i?id=e3deedf8b5a0afbe15ea01fc31bbea1780619b66-12320521-images-thumbs&n=13"
+  },
+  {
+    "id": 29,
+    "name": "Картридж GeekVape Aegis HERO 2",
+    "price": 340,
+    "category": "liquid",
+    "desc": ".",
+    "img": "https://avatars.mds.yandex.net/i?id=3f649036ad02b232ef6f73ad560fea0f41b4e8ff-10701700-images-thumbs&n=13"
+  },
+  {
+    "id": 30,
+    "name": "Испаритель Smoant Pasito 2/Knight 80",
+    "price": 320,
+    "category": "liquid",
+    "desc": "K1 0.3ом (50-65W)",
+    "img": "https://avatars.mds.yandex.net/i?id=71b84a5c56c9f4d9cc0423990e21a4f6ff775cea-12164955-images-thumbs&n=13"
+  },
+  {
+    "id": 31,
+    "name": "Картридж Pasito 3",
+    "price": 400,
+    "category": "liquid",
+    "desc": ".",
+    "img": "https://avatars.mds.yandex.net/i?id=b95746db29d4edf958d5bc9cb5fd0c1c5b4c89db-9051257-images-thumbs&n=13"
+  },
+  {
+    "id": 32,
+    "name": "Картридж Vaporesso Xros",
+    "price": 260,
+    "category": "liquid",
+    "desc": "2ml 0.6ом (3.0 corex)",
+    "img": "https://avatars.mds.yandex.net/i?id=e783afd700c048a3f66180f35645999caf47c020-12616328-images-thumbs&n=13"
+  },
+  {
+    "id": 33,
+    "name": "Картридж Vaporesso Xros 3ml",
+    "price": 250,
+    "category": "liquid",
+    "desc": "0.4ом (3.0 corex)",
+    "img": "https://avatars.mds.yandex.net/i?id=0b2d00fbc6b2d2e31bea12c0cac9e3d30c7c9c4e-8097642-images-thumbs&n=13"
   }
 ]
