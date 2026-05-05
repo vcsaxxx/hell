@@ -1,18 +1,10 @@
 [
   {
-    "id": 2,
-    "name": "dfsg",
-    "price": 656,
-    "category": "sale",
-    "desc": "dghj",
-    "img": "https://i.ibb.co/mrbB58Ns/photo-7-2026-04-09-14-18-31.jpg"
-  },
-  {
-    "id": 3,
-    "name": "123",
-    "price": 666,
-    "category": "liquid",
-    "desc": "fdg",
-    "img": "https://i.ibb.co/mrbB58Ns/photo-7-2026-04-09-14-18-31.jpg"
+    "id": 1,
+    "name": "Waka SoPro 20.000",
+    "price": 1200,
+    "category": "disposable",
+    "desc": "вкусы уточнять в лс",
+    "img": "https://yandex.ru/images/search?pos=13&from=tabbar&img_url=https%3A%2F%2Fstatic.insales-cdn.com%2Fimages%2Fproducts%2F1%2F5889%2F1954191105%2F2.1-waka-sopro-20000-category-banner.jpg&text=вака+сопро+20000&rpt=simage&lr=29392"
   }
 ]
