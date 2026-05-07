@@ -184,14 +184,6 @@
     "img": "https://avatars.mds.yandex.net/i?id=6f7dc619171716b5914fabcf4977e7a5181aff8d-9833563-images-thumbs&n=13"
   },
   {
-    "id": 24,
-    "name": "Злая монашка 70mg",
-    "price": 350,
-    "category": "juice",
-    "desc": "вкусы уточнять",
-    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/a5d89875-1467-4bbb-906e-1107fd248315?temp_url_sig=6094c98e70d25df3edca8223c61bba2917069d65&temp_url_expires=1777993064&filename=13968_big.jpg"
-  },
-  {
     "id": 25,
     "name": "Испаритель Aegis hero b-seriеs",
     "price": 280,
@@ -262,5 +254,53 @@
     "category": "liquid",
     "desc": "0.4ом (3.0 corex)",
     "img": "https://avatars.mds.yandex.net/i?id=0b2d00fbc6b2d2e31bea12c0cac9e3d30c7c9c4e-8097642-images-thumbs&n=13"
+  },
+  {
+    "id": 34,
+    "name": "LOST VAPE - URSA CAP",
+    "price": 600,
+    "category": "devices",
+    "desc": "цвета уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=0397bc852481a1d02d8f776981d7d4af5bf2accb-4011050-images-thumbs&n=13"
+  },
+  {
+    "id": 35,
+    "name": "LOST VAPE - URSA NONO S",
+    "price": 640,
+    "category": "devices",
+    "desc": "ЦВЕТА УТОЧНЯТЬ",
+    "img": "https://avatars.mds.yandex.net/i?id=7b23bb6d05f7f44428ba26620d7ca3c52eff91a5-4120244-images-thumbs&n=13"
+  },
+  {
+    "id": 36,
+    "name": "LOST VAPE - URSA NANO S 2",
+    "price": 666,
+    "category": "devices",
+    "desc": "цвета уточнять в лс",
+    "img": "https://avatars.mds.yandex.net/i?id=ae37b5f3265d52a1c4d9ceb1553eb3f29beeddbe-5259037-images-thumbs&n=13"
+  },
+  {
+    "id": 37,
+    "name": "ELFBAR 25000 RAYA D3",
+    "price": 1250,
+    "category": "disposable",
+    "desc": "вкусы уточнять",
+    "img": "https://avatars.mds.yandex.net/i?id=f13600cb428dfe77edc55cfba2d3a6cc8c907c7f-8497038-images-thumbs&n=13"
+  },
+  {
+    "id": 38,
+    "name": "ELFBAR BOOSTER 30000",
+    "price": 1400,
+    "category": "disposable",
+    "desc": "ВКУСЫ УТОЧНЯТЬ",
+    "img": "https://avatars.mds.yandex.net/i?id=0ffc6df46c98db3e31e10532a3460fe6f7fadb4c-4965879-images-thumbs&n=13"
+  },
+  {
+    "id": 39,
+    "name": "WAKA 25000 (new)",
+    "price": 1500,
+    "category": "disposable",
+    "desc": "ВКУСЫ УТОЧНЯТЬ",
+    "img": "https://www.allbarvape.com/uploads/37317/small/waka-duo-25000-puffs-vapeae634.jpg"
   }
 ]
