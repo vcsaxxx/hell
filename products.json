@@ -821,7 +821,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель S-4 для Smoant Santi. 0.35 Ом, 30-35 Вт — яркий вкус и плотный пар.",
-    "img": ""
+    "img": "https://hookahhouse.ru/upload/resize_cache/iblock/5c3/450_450_140cd750bba9870f18aada2478b24840a/8c4w70gg76mm8dmyoeobteen5qz8onhf.jpg"
   },
   {
     "id": 110,
@@ -829,7 +829,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Повторная позиция. Испаритель S-5 0.55 Ом для Santi.",
-    "img": ""
+    "img": "https://hookahhouse.ru/upload/resize_cache/iblock/5c3/450_450_140cd750bba9870f18aada2478b24840a/8c4w70gg76mm8dmyoeobteen5qz8onhf.jpg"
   },
   {
     "id": 111,
@@ -837,7 +837,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж для Voopoo Vmate с верхней заливкой. Сопротивление 0.7 Ом.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/images/products/1/3065/2151476217/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6_Voopoo_VMATE_Top_Fill_V.THRU_Pro_01_%D0%9E%D0%BC_11.jpg"
   },
   {
     "id": 112,
@@ -845,7 +845,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж для Voopoo V.thru объёмом 3 мл, 0.4 Ом. Верхняя заливка, отличный вкус.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/images/products/1/3065/2151476217/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6_Voopoo_VMATE_Top_Fill_V.THRU_Pro_01_%D0%9E%D0%BC_11.jpg"
   },
   {
     "id": 113,
@@ -853,7 +853,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Старая версия картриджа V.thru на 0.7 Ом. Совместимость с ранними моделями.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/images/products/1/3065/2151476217/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6_Voopoo_VMATE_Top_Fill_V.THRU_Pro_01_%D0%9E%D0%BC_11.jpg"
   },
   {
     "id": 114,
@@ -861,23 +861,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Мощный испаритель Voopoo PnP-VM6. Сопротивление 0.15 Ом, для большого пара (60-80 Вт).",
-    "img": ""
-  },
-  {
-    "id": 115,
-    "name": "Картридж Voopoo Vmate 0.7ом (top fill)",
-    "price": 1,
-    "category": "liquid",
-    "desc": "Дубликат картриджа Vmate 0.7 Ом.",
-    "img": ""
-  },
-  {
-    "id": 116,
-    "name": "Картридж Voopoo V.thru 0.4ом (top fill 3ml)",
-    "price": 1,
-    "category": "liquid",
-    "desc": "Повтор — картридж V.thru 0.4 Ом, 3 мл.",
-    "img": ""
+    "img": "https://vardex.ru/upload/resize_cache/iblock/fe0/400_400_040cd750bba9870f18aada2478b24840a/voopoo-pnp-vm6-isparitel.jpg"
   },
   {
     "id": 117,
@@ -885,7 +869,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель GTX 0.2 Ом для устройств Vaporesso (PM40, Luxe X и др.). Мощность 45-60 Вт.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/79/80/28079/images/24060/vaporesso_gtxcoils_015.970.jpg"
   },
   {
     "id": 118,
@@ -893,7 +877,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Оригинальный картридж Xros на 2 мл, испаритель 0.6 Ом (Corex 3.0). Отличный MTL.",
-    "img": ""
+    "img": "https://milkyvape.shop/content/images/35/1000x1000l80bc30/kartrydzh-vaporesso-xros-series-corex-3.0-0.6-om-oryhinal-83017865145796.webp"
   },
   {
     "id": 119,
@@ -901,7 +885,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж Xros 3 мл с испарителем 0.4 Ом. Для более свободной тяги (RDL).",
-    "img": ""
+    "img": "https://static.insales-cdn.com/r/yKA7rt4TKPo/rs:fit:570:570:1/q:100/plain/images/products/1/1108/931841108/import_files_a7_a7c0f3fd5e0311efba951866dae77475_2342a5459d9611efba971866dae77475.jpg@webp"
   },
   {
     "id": 120,
@@ -909,7 +893,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель B-серии для GeekVape Aegis Hero. 0.3 Ом, мощность 30-38 Вт.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/72/91/29172/images/21971/GeekVape_B_Series_B03_Coil_Head.970.jpg"
   },
   {
     "id": 121,
@@ -917,7 +901,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель B-серии 0.4 Ом для Aegis Hero. 25-35 Вт, хороший вкус.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/40/88/28840/images/21411/GeekVape_B_Series_Coils.970.jpg"
   },
   {
     "id": 122,
@@ -925,7 +909,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж для Aegis Hero 2 (H45) чёрного цвета. Объём 5.5 мл, совместим с B-испарителями.",
-    "img": ""
+    "img": "https://fm.driptip.shop/wa-data/public/shop/products/45/39/33945/images/28493/Kartridzh_GeekVape_Hero_2_-_black.970.jpg"
   },
   {
     "id": 123,
@@ -933,7 +917,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж для Aegis Hero 5 объёмом 6.5 мл. Тёмный цвет, удобная заливка.",
-    "img": ""
+    "img": "https://севастопольскийрынок.рф/wp-content/uploads/2026/01/kartridzh-s-isparitelem-geekvape-h45-0-6-om-5-ml-upakovka-2-sht-800x800-1-250x250.jpg"
   },
   {
     "id": 124,
@@ -941,7 +925,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж для Aegis Nano 2 с испарителем 0.6 Ом. Компактный и надёжный.",
-    "img": ""
+    "img": "https://zaparvape.ru/wa-data/public/shop/products/84/98/9884/images/19722/19722.970.png"
   },
   {
     "id": 125,
@@ -949,7 +933,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж Aegis ONE на 0.8 Ом. Идеален для солевых жидкостей.",
-    "img": ""
+    "img": "https://cosmoshop.pro/upload/iblock/876/y716l41s6pgjv1iyius3a8rd3o6kpy9a.jpg"
   },
   {
     "id": 126,
@@ -957,7 +941,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель K3 для Pasito 2/Knight 80. Уточняйте сопротивление у менеджера.",
-    "img": ""
+    "img": "https://vardex.ru/upload/resize_cache/iblock/b8f/400_400_040cd750bba9870f18aada2478b24840a/isparitel-smoant-pasito-2-knight-80-k1-03-om.jpg"
   },
   {
     "id": 127,
@@ -965,7 +949,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Мощный испаритель K5. 0.15 Ом, 70-90 Вт — максимальный пар.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2026/01/Isparitel-Smoant-knight_Pasito-II-K5-0.15.jpg"
   },
   {
     "id": 128,
@@ -973,7 +957,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель P1 0.6 Ом для Pasito mini. Универсальный для соли и жижки.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Isparitel-Smoant-Pasito-mini-coil-P-1-0.6.jpg"
   },
   {
     "id": 129,
@@ -981,7 +965,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель Rincoe Manto Jellybox Nano. 0.5 Ом, хороший вкус и плотность пара.",
-    "img": ""
+    "img": "https://4pod.shop/wa-data/public/shop/products/56/66/6656/images/16122/16122.970.jpg"
   },
   {
     "id": 130,
@@ -989,7 +973,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс ARQA (бестабачные никотиновые подушечки). Разные крепости и вкусы.",
-    "img": ""
+    "img": "https://m33.snusmsk.com/image/cache/catalog/snus/arka-11-380x380.jpg"
   },
   {
     "id": 131,
@@ -997,7 +981,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Никотиновые подушечки D.L.T.A. Высокое качество, длительный эффект.",
-    "img": ""
+    "img": "https://nico-kz1.com/wp-content/uploads/2025/10/NICOKAZ-SNUS-DLTA-apricot-430x430.jpg"
   },
   {
     "id": 132,
@@ -1005,7 +989,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс Drymost. Сухие подушечки с ярким вкусом и быстрым высвобождением никотина.",
-    "img": ""
+    "img": "https://xn--80aaxitdbjk.xn--p1ai/wa-data/public/shop/products/15/52/25215/images/171028/171028.zhevatelnyy-tabak-drymost-sibirium.500x0.png"
   },
   {
     "id": 133,
@@ -1013,7 +997,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс FAFF крепостью 150 мг. Для опытных пользователей.",
-    "img": ""
+    "img": "https://snustop.com.ua/img/products/faff-top-gum.png"
   },
   {
     "id": 134,
@@ -1021,7 +1005,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Подушечки FEDRS со вкусом ледяной свежести. Умеренная крепость.",
-    "img": ""
+    "img": "https://snustop.com.ua/img/products/fedrs/feders-ice-cool-mint-hard-limited-maradona.jpg"
   },
   {
     "id": 135,
@@ -1029,7 +1013,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Никотиновые пакетики Glitch. Яркие вкусы и быстрый эффект.",
-    "img": ""
+    "img": "https://www.novasens.by/image/cache/catalog/image/cache/catalog/new/glch/coldprgl-800x800.webp"
   },
   {
     "id": 136,
@@ -1037,7 +1021,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс Iceberg. Мощная свежесть и высокое содержание никотина.",
-    "img": ""
+    "img": "https://foxvs.ru/upload/cache/5bd763edfb0591e87ada3284ce9d64c5.jpg"
   },
   {
     "id": 137,
@@ -1045,7 +1029,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Истерика Lethal 150 мг. Экстремальная крепость для закалённых.",
-    "img": ""
+    "img": "https://q28.shizashop.ru/wp-content/uploads/2024/11/ISTERIKA-Lethal-_-%C2%A6%D0%A1%C2%A6-%C2%A6-%C2%A6%C2%AC-%C2%A6%D0%A3%C2%A6-%C2%A6-.webp"
   },
   {
     "id": 138,
@@ -1053,7 +1037,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Сверхкрепкий снюс — 205 мг. Только для фанатов.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/r/kvpGvg_Mp_g/rs:fit:250:0:1/q:100/plain/images/products/1/2435/967453059/energetik.png@webp"
   },
   {
     "id": 139,
@@ -1061,7 +1045,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Коллаборация Истерика и Грех. 190 мг никотина, уникальный вкус.",
-    "img": ""
+    "img": "https://i.ibb.co/FkwFsvVJ/images.jpg"
   },
   {
     "id": 140,
@@ -1069,7 +1053,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Истерика против Злой Монашки — 201 мг. Ядерная смесь.",
-    "img": ""
+    "img": "https://vapehousecrimea.ru/files/resized/products/screenshot_20_34.600x800.png"
   },
   {
     "id": 141,
@@ -1077,7 +1061,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс Каста — копия. Доступная альтернатива оригиналу.",
-    "img": ""
+    "img": "https://snustop.com.ua/img/products/kasta/kasta-ezhevika.jpg"
   },
   {
     "id": 142,
@@ -1085,7 +1069,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Симпсоны 100 мг — классическая крепость, фруктовые вкусы.",
-    "img": ""
+    "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Melon-Mango-Strawberry_result.webp"
   },
   {
     "id": 143,
@@ -1093,7 +1077,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Симпсоны 150 мг. Усиленная формула.",
-    "img": ""
+    "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Cherry_result.webp"
   },
   {
     "id": 144,
@@ -1101,7 +1085,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Максимальная крепость 200 мг от The Simpsons.",
-    "img": ""
+    "img": "https://q28.shizashop.ru/wp-content/uploads/2025/11/the-simpsons-summer-splash-shizashop-1000x1000.webp"
   },
   {
     "id": 145,
@@ -1109,7 +1093,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Лёгкая версия Симпсонов — 50 мг, для начинающих.",
-    "img": ""
+    "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Blue-Lagoon_result.webp"
   },
   {
     "id": 146,
@@ -1117,7 +1101,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Средняя крепость 75 мг от The Simpsons. Баланс вкуса и силы.",
-    "img": ""
+    "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Blue-Lagoon_result.webp"
   },
   {
     "id": 147,
@@ -1125,7 +1109,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс Анархия 150 мг. Бунтарский вкус и высокая крепость.",
-    "img": ""
+    "img": "https://smoke-hub.net/products/2463_165d6d0e.jpg"
   },
   {
     "id": 148,
@@ -1133,7 +1117,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Экстремальный снюс «Грех Самоубийство» — 299 мг. Не для новичков!",
-    "img": ""
+    "img": "https://static.insales-cdn.com/r/rc_fVK1OV_k/rs:fit:1000:0:1/q:100/plain/images/products/1/7457/2968714529/photo_2026-04-18_16-16-21.jpg@webp"
   },
   {
     "id": 149,
@@ -1141,6 +1125,6 @@
     "price": 1,
     "category": "sale",
     "desc": "Снюс Злая Монашка 120 мг. Мистический вкус и мощный удар.",
-    "img": ""
+    "img": "https://nikoptom.store/images/product_images/thumbnail_images/ba7cebed-3b72-4743-ad32-b1551338788e_imageid.png"
   }
 ]
