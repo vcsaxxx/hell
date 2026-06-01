@@ -269,7 +269,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Одноразовая электронная сигарета SnoopySmoke на 40000 затяжек. Яркие вкусы.",
-    "img": ""
+    "img": "https://sadovodoptom.ru/wa-data/public/shop/products/16/00/10016/images/17666/17666.580.jpeg"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Гигантская одноразка на 50000 тяг. Максимальный ресурс, насыщенный вкус.",
-    "img": ""
+    "img": "https://kalyankarat.ru/wp-content/uploads/2025/12/attachment22-680x907.jpeg"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Компактная одноразка UDN на 13000 затяжек. Отличный вариант на каждый день.",
-    "img": ""
+    "img": "https://sadovodoptom.ru/wa-data/public/shop/products/39/77/7739/images/15071/15071.580.jpeg"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Увеличенная версия UDN S на 25000 тяг. Больше пара, больше вкуса.",
-    "img": ""
+    "img": "https://sadovodoptom.ru/wa-data/public/shop/products/21/90/9021/images/16649/16649.580.jpeg"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Модель UDN SR на 20000 затяжек. Баланс компактности и автономности.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/14743_middle.png"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Мощная одноразка Vozol Gear Power. 20000 затяжек, регулируемая тяга, насыщенный пар.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vozol-20000-mixed-berries-MM-odnorazovaya-elektronnaya-sigareta.jpg"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Одноразка Vozol Gear в стиле кальяна. 25000 тяг, яркие фруктово-ледяные вкусы.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vozol-Gear-Shisha-25000-klubnika_kivi_led-M.jpg"
   },
   {
     "id": 41,
@@ -325,15 +325,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Гигантская Vozol Rave на 40000 затяжек. Эффектный дизайн и огромный ресурс.",
-    "img": ""
-  },
-  {
-    "id": 42,
-    "name": "VOZOL RAVE 46000",
-    "price": 1,
-    "category": "disposable",
-    "desc": "Одноразка Vozol Rave 46000 затяжек. Огромный ресурс, насыщенный пар, стильный корпус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/09/Vozol-Rave-40000-peach-ice-M.jpg"
   },
   {
     "id": 43,
@@ -341,7 +333,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Одноразка Vozol Rave 46000 затяжек. Огромный ресурс, насыщенный пар, стильный корпус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/09/Vozol-Rave-40000-peach-ice-M.jpg"
   },
   {
     "id": 44,
@@ -349,7 +341,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Vozol Vista — одноразка с прозрачным корпусом. 20000 тяг.",
-    "img": ""
+    "img": "https://media.vaping360.com/images/vozol-vista-16000-20000-7ea050d3b9.webp?imageType=Standard&MaxWidth=500&MaxHeight=500"
   },
   {
     "id": 45,
@@ -357,7 +349,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Популярная модель Waka на 20000 затяжек. Отличная передача вкуса и плавная тяга.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Waka-soPro-20000-energetik_chernaya-smorodina-MM-odnorazovaya-elektronnaya-sigareta.jpg"
   },
   {
     "id": 46,
@@ -365,7 +357,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Новая версия Waka на 25000 тяг. Улучшенная испарительная система и стильный дизайн.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/14697_middle.png"
   },
   {
     "id": 47,
@@ -373,7 +365,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Монстр среди одноразок — Duall Nicbar на 50000 затяжек. Двойной резервуар и мощный аккумулятор.",
-    "img": ""
+    "img": "https://kalyankarat.ru/wp-content/uploads/2025/10/photo-2025-10-21-09-35-181-680x907.jpg"
   },
   {
     "id": 48,
@@ -381,7 +373,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Elfbar Booster на 30000 тяг. Знаменитое качество Elfbar в увеличенном формате.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/31/58/35831/images/41693/Elf_Bar_Booster_30000_-_Ledyanoy_Arbuz_Myata.970.jpg"
   },
   {
     "id": 49,
@@ -389,7 +381,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Elfbar GH на 23000 затяжек. Компактная и вкусная.",
-    "img": ""
+    "img": "https://smoke-village.cdn.webasyst.cloud/wa-data/public/shop/products/20/10/11020/images/23132/23132.970.jpg"
   },
   {
     "id": 50,
@@ -397,7 +389,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Продвинутая модель Elfbar GH33000 Pro. 33000 тяг, улучшенная подача вкуса.",
-    "img": ""
+    "img": "https://gosmoke.ru/image/cache/7bc3b24c3ab3c4ce8cbf4f7d097ab005.jpg"
   },
   {
     "id": 51,
@@ -405,7 +397,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Король льда — серия с максимальной свежестью. 30000 затяжек.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/08/Elf-bar-Ice-King-30000-ezhevikaklyukva-M.jpg"
   },
   {
     "id": 52,
@@ -413,7 +405,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Лунная серия Elfbar. Мягкие, таинственные вкусы и 25000 тяг.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/11/Elf-Bar-Moonlight-25000-vishnya-arbuz-M.jpg"
   },
   {
     "id": 53,
@@ -421,7 +413,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Король кислинки — Elfbar Sour King. Яркий кисло-сладкий вкус, 30000 затяжек.",
-    "img": ""
+    "img": "https://tabaking.shop/image/cache/catalog/image/cache/catalog/elf%20bar/elf-bar-sour-king-30000/kislaya-chernika-arbuz-700x700.webp"
   },
   {
     "id": 54,
@@ -429,7 +421,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Серия Triplex: три вкуса в одной одноразке. 30000 тяг, переключаемые режимы.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/15687_middle.png"
   },
   {
     "id": 55,
@@ -437,7 +429,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Яркие и сочные вкусы Funky Lands. 15000 затяжек — идеально для знакомства.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/14628_middle.png"
   },
   {
     "id": 56,
@@ -445,7 +437,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Компактная одноразка Hotspot на 12000 тяг. Тёплый пар и насыщенные ароматы.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/r/4FHU5827vNI/rs:fit:440:0:1/q:100/plain/images/products/1/7721/944274985/large_yellow_mix-Photoroom.png@webp"
   },
   {
     "id": 57,
@@ -453,7 +445,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Lost Marry MO на 30000 затяжек. Плавная тяга и яркий вкус.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/big/15010_big.jpeg"
   },
   {
     "id": 58,
@@ -461,7 +453,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Модель Lost Marry OS на 12000 тяг. Компактность и богатый вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Mary-OS12000-kivi_dynya_yabloko-MM-odnorazovaya-elektronnaya-sigareta.jpg"
   },
   {
     "id": 59,
@@ -469,7 +461,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Миксер вкусов: можно смешивать прямо в устройстве. 25000 затяжек.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Mary-Mixer-25000-miks-myata-M.jpg"
   },
   {
     "id": 60,
@@ -477,7 +469,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Элегантная версия Lost Mary MO в цвете Golden black. 10000 затяжек.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Mary-BlackGold-MO10000-bajya-blast-MM-odnorazovaya-elektronnaya-sigareta.jpg"
   },
   {
     "id": 61,
@@ -485,7 +477,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Турбо-версия Lost Mary MT на 15000 тяг. Усиленный поток воздуха и вкус.",
-    "img": ""
+    "img": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E"
   },
   {
     "id": 62,
@@ -493,7 +485,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Увеличенная модель Lost Mary MT на 35000 затяжек. Максимальный ресурс.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/16173_middle.png"
   },
   {
     "id": 63,
@@ -501,7 +493,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Одноразка Lost Vape LV на 18000 тяг. Премиальное качество и стильный дизайн.",
-    "img": ""
+    "img": "https://vapenews.ru/storage/articles/images/17_6_2024/17186537460.jpg"
   },
   {
     "id": 64,
@@ -509,7 +501,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Мини-одноразка Nancy на 6000 затяжек. Крепость 2%, мягкий вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Nancy-Black-6000-fresh-strawberry-M-odnorazovaya-elektronnaya-sigareta.jpg"
   },
   {
     "id": 65,
@@ -517,7 +509,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Чистый вкус Puffmi Pure. 12000 тяг, никаких лишних примесей.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/09/Puffmi-Pure-12000-pineapplelemonwatermelon.jpg"
   },
   {
     "id": 66,
@@ -525,7 +517,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Мощная Puffmi Tank на 16000 затяжек. Большой бак и насыщенный пар.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2026/03/Puffmi-Tank-16000-apelsin_kivi-M.jpg"
   },
   {
     "id": 67,
@@ -533,7 +525,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Ледяная одноразка Rick and Morty. EXTRA HARD — экстремальная крепость, 20000 тяг.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/15580_middle.png"
   },
   {
     "id": 68,
@@ -541,7 +533,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Waka Xland на 15000 затяжек. Сочетание фруктов и льда.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Xland-15000-zelenyj-vinograd-M.jpg"
   },
   {
     "id": 69,
@@ -549,7 +541,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Waka Xland на 35000 тяг. Максимальный ресурс и сочный вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/11/Xland-Spike-35000-limonnaya-ledyanaya-kola-M.jpg"
   },
   {
     "id": 70,
@@ -557,7 +549,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Одноразка Yooz Hunk на 15000 затяжек. Стильный дизайн, яркие ароматы.",
-    "img": ""
+    "img": "https://papa-vape-opt.com/pictures/product/middle/14306_middle.png"
   },
   {
     "id": 71,
@@ -565,7 +557,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Под-система Lost Vape URSA NONO S. Компактная, надёжная, с отличной передачей вкуса.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Vape-Ursa-Nano-S-II-pink-dauphine-elektronnaya-sigareta.jpg"
   },
   {
     "id": 72,
@@ -573,7 +565,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Вторая версия URSA NANO S. Ещё удобнее, мощнее, стильнее. Идеальный под для соли.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Vape-Ursa-Nano-S-II-pink-dauphine-elektronnaya-sigareta.jpg"
   },
   {
     "id": 73,
@@ -581,7 +573,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Lost Vape URSA CAP — надёжный под-кит с регулировкой обдува. Отличный выбор для новичков.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Vape-Ursa-Cap-pink-carnival-elektronnaya-sigareta.jpg"
   },
   {
     "id": 74,
@@ -589,7 +581,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Флагманская под-система Vaporesso XROS 5. Плавная регулировка, мощный аккумулятор, картриджи Corex 2.0.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-5-opal-white-elektronnaya-sigareta.jpg"
   },
   {
     "id": 75,
@@ -597,7 +589,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Лимитированная версия XROS 5 с кожаной отделкой. Премиум-дизайн и те же выдающиеся характеристики.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/12/Vaporesso-Xros-5-Leather-Edition-red-leather-elektronnaya-sigareta.jpg"
   },
   {
     "id": 76,
@@ -629,7 +621,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Профессиональная версия Xros. Расширенный функционал, режим затяжки, аккумулятор 1000 мАч.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-Pro-purple-elektronnaya-sigareta.jpg"
   },
   {
     "id": 80,
@@ -637,7 +629,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Второе поколение Xros Pro. Ещё больше настроек, ещё лучше вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/11/Vaporesso-Xros-Pro-2-glittering-black-elektronnaya-sigareta.jpg"
   },
   {
     "id": 81,
@@ -645,7 +637,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Проверенная временем Xros 3 mini. Простая и надёжная под-система для солевой жидкости.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-3-mini-navy-blue-elektronnaya-sigareta.jpg"
   },
   {
     "id": 82,
@@ -653,7 +645,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Xros 4: улучшенная автономия, новые картриджи. Плавный вкус и густой пар.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-4-black-elektronnaya-sigareta.jpg"
   },
   {
     "id": 83,
@@ -661,7 +653,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Миниатюрная Xros 4. Всё преимущества серии в компактном корпусе.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-4-mini-champagne-gold-elektronnaya-sigareta.jpg"
   },
   {
     "id": 84,
@@ -669,47 +661,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Нано-версия Xros 4. Крошечный размер, но полноценный вкус.",
-    "img": ""
-  },
-  {
-    "id": 85,
-    "name": "GeekVape",
-    "price": 1,
-    "category": "devices",
-    "desc": "Устройства GeekVape (уточняйте модель в Telegram). Надёжность и качество.",
-    "img": ""
-  },
-  {
-    "id": 86,
-    "name": "LOST VAPE (общее)",
-    "price": 1,
-    "category": "devices",
-    "desc": "Различные модели Lost Vape. Уточняйте наличие и цены у менеджера.",
-    "img": ""
-  },
-  {
-    "id": 87,
-    "name": "Smoant (общее)",
-    "price": 1,
-    "category": "devices",
-    "desc": "Устройства Smoant: Pasito, Knight и другие. Надёжные под-системы.",
-    "img": ""
-  },
-  {
-    "id": 88,
-    "name": "Vaporesso (общее)",
-    "price": 1,
-    "category": "devices",
-    "desc": "Широкий ассортимент Vaporesso. От XROS до Gen — всё для комфортного парения.",
-    "img": ""
-  },
-  {
-    "id": 89,
-    "name": "Voopoo (общее)",
-    "price": 1,
-    "category": "devices",
-    "desc": "Устройства Voopoo: Drag, Vinci и другие. Инновационные технологии и стиль.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-4-Nano-race-track-elektronnaya-sigareta.jpg"
   },
   {
     "id": 90,
@@ -717,7 +669,7 @@
     "price": 1,
     "category": "devices",
     "desc": "GeekVape Aegis Boost 2 (B60). Защита от ударов, пыли и воды. Мощность до 60 Вт.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/GeekVape-B60-Aegis-boost-2-blue-red-elektronnaya-sigareta.jpg"
   },
   {
     "id": 91,
@@ -725,7 +677,7 @@
     "price": 1,
     "category": "devices",
     "desc": "GeekVape Aegis Hero 2 (H45). Прочный под-кит с мощностью 45 Вт. Идеален для соли.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/GeekVape-H45-Aegis-Hero-2-sky-blue-elektronnaya-sigareta.jpg"
   },
   {
     "id": 92,
@@ -733,7 +685,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Новинка — Aegis Hero 5. Улучшенная герметизация, картридж 6.5 мл, насыщенный вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/09/Geek-Vape-Aegis-Hero-5-blaze-red-elektronnaya-sigareta.jpg"
   },
   {
     "id": 93,
@@ -741,7 +693,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Классический Aegis Hero (H45). Легендарная надёжность и отличная передача вкуса.",
-    "img": ""
+    "img": "https://eltobacco.ru/wp-content/uploads/2024/07/c215fd07-eb58-4705-98af-747573b4966f_c2b91143-2f64-49f4-94d2-c1b1934aa7e7-600x600.jpg"
   },
   {
     "id": 94,
@@ -749,7 +701,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Aegis Hero Q — кварцевая версия. Стильный дизайн и мощный аккумулятор.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/GeekVape-Aegis-Hero-Q-rainbow-elektronnaya-sigareta.jpg"
   },
   {
     "id": 95,
@@ -757,7 +709,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Ультра-компактная Xros 5 nano. Маленький размер, огромный вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2026/01/Vaporesso-Xros-5-Nano-nacre-elektronnaya-sigareta.jpg"
   },
   {
     "id": 96,
@@ -765,7 +717,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Кубический дизайн Xros Cube. Необычная форма, стандартные картриджи Xros.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-Cube-glitter-gold-elektronnaya-sigareta.jpg"
   },
   {
     "id": 97,
@@ -773,7 +725,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Базовая модель Xros mini. Простота, надёжность, отличный вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-mini-gold.jpg"
   },
   {
     "id": 98,
@@ -781,7 +733,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Voopoo Vmate Pro. Элегантный под с регулировкой обдува и мощностью до 30 Вт.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Vmate-Pro-pink-elektronnaya-sigareta.jpg"
   },
   {
     "id": 99,
@@ -789,7 +741,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Smoant Knight 80. Мощность 80 Вт, сменные испарители, отличный вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Smoant-Knight-80-SS-elektronnaya-sigareta.jpg"
   },
   {
     "id": 100,
@@ -797,7 +749,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Smoant Pasito 2. Популярный под-кит с картриджами и испарителями K серии.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Smoant-Pasito-2-dreamy-pink-elektronnaya-sigareta.jpg"
   },
   {
     "id": 101,
@@ -805,7 +757,7 @@
     "price": 1,
     "category": "devices",
     "desc": "Новинка — Smoant Pasito 3. Улучшенная система подачи воздуха и новые картриджи.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2026/01/Smoant-Pasito-3-matte-black-elektronnaya-sigareta.jpg"
   },
   {
     "id": 102,
@@ -813,7 +765,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Сменный испаритель для Smoant Santi. Сопротивление 0.55 Ом, от 18 до 25 Вт. Хорошая передача вкуса.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/26/19/31926/images/25785/santi_s-5.970.jpg"
   },
   {
     "id": 103,
@@ -821,7 +773,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Оригинальный картридж для Smoant Pasito 3. Вместительный, с удобной заливкой.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/07/59/35907/images/41974/Smoant_Pasito_3_cartridge.970.jpg"
   },
   {
     "id": 104,
@@ -829,7 +781,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Картридж для Pasito mini объёмом 3.5 мл. Без испарителя, используйте свои.",
-    "img": ""
+    "img": "https://vardex.ru/upload/resize_cache/iblock/6c6/hvv2rze2s6a26qegknh8l0b1aja4q90d/400_400_040cd750bba9870f18aada2478b24840a/smoant_pasito_mini_kartridzh_pod_3_5ml_bez_isparitelya-1.jpeg"
   },
   {
     "id": 105,
@@ -837,7 +789,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель для Smoant Battlestar. Сопротивление 0.6 Ом, универсальный для соли и обычной жидкости.",
-    "img": ""
+    "img": "https://vardex.ru/upload/resize_cache/iblock/086/400_400_040cd750bba9870f18aada2478b24840a/isparitel-smoant-battlestar-baby-mesh-06-om.jpg"
   },
   {
     "id": 106,
@@ -845,7 +797,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель K1 для Pasito 2 и Knight 80. 0.3 Ом, мощность 50-65 Вт — для густого пара.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/10/80/28010/images/20192/Smoant_Knight_80_Replacement_Coil_-_03ohm.650x0.jpg"
   },
   {
     "id": 107,
@@ -853,7 +805,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель K2 (уточняйте сопротивление). Подходит для Pasito 2 и Knight 80.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Isparitel-Smoant-knight_Pasito-II-K2-0.4.jpg"
   },
   {
     "id": 108,
@@ -861,7 +813,7 @@
     "price": 1,
     "category": "liquid",
     "desc": "Испаритель P3 1.0 Ом для Pasito mini. Оптимален для солевых жидкостей (MTL).",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Isparitel-Smoant-Pasito-mini-coil-P-3-1.0.jpg"
   },
   {
     "id": 109,
