@@ -13,7 +13,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Жидкость с изюминкой — фруктово-ягодные ноты на солевом никотине 20 мг. Плавное угощение.",
-    "img": ""
+    "img": "https://tobolsk.indi-shop.ru/image/cache/catalog/foto-tovarov/vape/jidkosti/salt/glitchsauce/raisin/cranberry-lemonade-800x800.png?1727180340"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Соусная серия: яркий вкус и плотная текстурa пара. Крепость 20 мг для комфортного парения.",
-    "img": ""
+    "img": "https://hookahhouse.ru/upload/resize_cache/iblock/a72/450_450_140cd750bba9870f18aada2478b24840a/10tunj2x40s8zy0l3opz2j3b1r1rjtsk.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Любимая многими серия с мягким вкусом ягодного мармелада. Солевая жидкость 20 мг.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/ZHidkost-Mishka-x-Husky-salt-30ml-sladkaya-myata.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Горячая точка вкуса — тропический микс с ледяным финишем. Крепость 20 мг.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/ZHidkost-Hotspot-DONT-Chew-IT-salt-30ml-ledyanoj-vinograd-20-hard.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Оригинальный вкус от Daff. Сбалансированная сладость и свежесть. 20 мг соли.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/23/16/31623/images/25309/INDO_SOUR_SALT_-_DAFT_GAL.970.png"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Двойная энергия: сочные фрукты и лёд. Жидкость на солевом никотине 20 мг.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/19/99/29919/images/23161/Duall_Salt_yabloko_malina.970.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Монстр-крепость 50 мг для быстрого насыщения. Экстремально холодные и фруктовые вкусы.",
-    "img": ""
+    "img": "https://tagil.cosmoshop.pro/upload/resize_cache/iblock/79d/450_450_140cd750bba9870f18aada2478b24840a/b1jj5tkz78mrg6faqdxv9l6er1m4442a.PNG"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Кислотный монстр: взрыв кислинки и 50 мг никотина. Для любителей остроты ощущений.",
-    "img": ""
+    "img": "https://dartvaper.ua/files/products/nabor-monster-liquid-sour-apple-30-ml1.800x800.jpg.webp"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Классическая линейка Monstervapor с крепостью 20 мг. Гармоничные вкусы и отличная живучесть.",
-    "img": ""
+    "img": "https://tagil.cosmoshop.pro/upload/resize_cache/iblock/07b/450_450_140cd750bba9870f18aada2478b24840a/tldtnvf9gbraia1re3qb01xqxhfwagnt.jpg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Ультра-версия 50 мг: максимальный тротхит и яркий аромат. Идеально для под-систем.",
-    "img": ""
+    "img": "https://tagil.cosmoshop.pro/upload/resize_cache/iblock/07b/450_450_140cd750bba9870f18aada2478b24840a/tldtnvf9gbraia1re3qb01xqxhfwagnt.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Затягивающие вкусы с крепостью 20 мг. Сочные фрукты и ягоды без лишней сладости.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Narcoz-salt-kislye-mishki-20-mg-MM-zhidkost-dlya-pod-sistem.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Тяжёлая артиллерия: 50 мг и неповторимые микс-вкусы. Для опытных вейперов.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Narcoz-salt-kislye-mishki-20-mg-MM-zhidkost-dlya-pod-sistem.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Premium-жидкость с мягким послевкусием. 20 мг соли — баланс вкуса и крепости.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/images/products/1/7223/637885495/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D1%8C_OGGO_Reels_Ice_Salt_-_%D0%90%D0%BB%D0%BE%D1%8D_%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_30_%D0%BC%D0%BB.jpeg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Смесь ягод и тропиков с ледяной нотой. Насыщенный вкус при 20 мг никотина.",
-    "img": ""
+    "img": "https://static.insales-cdn.com/images/products/1/1847/924092215/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D1%8C_PEREDOZ_V12_all.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Призрачная крепость 50 мг: невидимый удар, яркий вкус. Идеально для скрытного парения.",
-    "img": ""
+    "img": "https://milkyvape.shop/content/images/7/1000x1000l80bc30/nabir-phantom-30ml-50mg-cherry-menthol-59447357243402.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Пиксельный вкус — чёткий, яркий, без пикселизации. Крепость 35 мг, золотая середина.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/53/51/35153/images/40321/Pixel_Zero_Bablgam_Vkus_Bablgam.970.jpg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Жёсткая версия: убойная крепость и безумные вкусы от Рика и Морти. HARD-серия.",
-    "img": ""
+    "img": "https://xn--24-6kcaae8d0c6b.xn--p1ai/thumb/2/dpbA220k-PF-fkTZBOUmWg/350r350/d/skitls-klubnika-kivi.png"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Средняя крепость для повседневного парения. Те же безумные вкусы, мягкий удар.",
-    "img": ""
+    "img": "https://xn--24-6kcaae8d0c6b.xn--p1ai/thumb/2/dpbA220k-PF-fkTZBOUmWg/350r350/d/skitls-klubnika-kivi.png"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Ледяная серия на замерзоне. Средняя крепость, арктическая свежесть с фруктовым вкусом.",
-    "img": ""
+    "img": "https://am.driptip.su/wa-data/public/shop/products/71/47/34771/images/39771/10_Marmeladnyy-glir-glop___dva.970.jpg"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Кисло-ледяной взрыв. Жёсткая версия (HARD) для любителей экстрима на морозе.",
-    "img": ""
+    "img": "https://stariyoskol.vapehook.ru/wa-data/public/shop/products/12/02/10212/images/2720/image.970.png"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Умеренно кислые и очень холодные. MEDIUM — баланс вкуса и свежести.",
-    "img": ""
+    "img": "https://stariyoskol.vapehook.ru/wa-data/public/shop/products/12/02/10212/images/2720/image.970.png"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Шкала вкуса: от сладкого до ледяного. 20 мг — комфортная крепость для pod-систем.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Skala-salt-30ml-vinograd-so-ldom.jpg"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Максимальная шкала: 50 мг. Только для опытных. Мощный тротхит и яркий вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Skala-salt-30ml-vinograd-so-ldom.jpg"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Травяные ноты с фруктовым акцентом. Крепость 20 мг — мягкий, но стойкий вкус.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Trava-Ice-salt-30-ml-fanta_grape-20mg-M-zhidkost-dlya-pod-sistem.jpg"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Ударная доза 50 мг с травянисто-фруктовым профилем. Для ценителей насыщенных жидкостей.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Trava-Ice-salt-30-ml-fanta_grape-20mg-M-zhidkost-dlya-pod-sistem.jpg"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Улучшенная формула Trava: больше вкуса, 50 мг крепости. Плавное и плотное парение.",
-    "img": ""
+    "img": "https://vape.market/wp-content/uploads/2025/07/Trava-Ice-salt-30-ml-fanta_grape-20mg-M-zhidkost-dlya-pod-sistem.jpg"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Кислые леденцы в жидком формате. Злая кислинка и лёд. Крепость 20 мг.",
-    "img": ""
+    "img": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/3348092/Z14g8lM0fHbyXV0MLeQw.jpg"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Экстремальная крепость 70 мг! Кислотный микс для самых отчаянных. V2 — новая формула.",
-    "img": ""
+    "img": "https://vapehook.ru/wa-data/public/shop/products/92/36/13692/images/3224/img_69f317b2ba7994.16046729.970.png"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Никотиновые пластинки «Истерика» со вкусом энергетика. Быстрый способ получить никотин.",
-    "img": ""
+    "img": "https://gosmoke.ru/image/cache/1b56f390241b119287da9e05e73eda48.jpg"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Мощные никотиновые пластинки «Каста». Сильная крепость, долгое действие.",
-    "img": ""
+    "img": "https://vapehousecrimea.ru/files/resized/products/screenshot_52_57.600x800.png"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Никотиновые ватки LOOP — копия. Удобный формат, разные вкусы. Быстрое насыщение.",
-    "img": ""
+    "img": "https://gosmoke.ru/image/cache/86000aaf58ea8b3e6d8ddbb7e02c562c.jpg"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Оригинальные никотиновые ватки LOOP. Высокое качество, мягкие и крепкие варианты.",
-    "img": ""
+    "img": "https://gosmoke.ru/image/cache/86000aaf58ea8b3e6d8ddbb7e02c562c.jpg"
   },
   {
     "id": 34,
