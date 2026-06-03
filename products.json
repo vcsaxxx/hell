@@ -1,24 +1,8 @@
 [
   {
-    "id": 1,
-    "name": "Glitch Genetic Code EXTRA 20mg",
-    "price": 1,
-    "category": "juice",
-    "desc": "Экстремальная линейка с ударной крепостью 20 мг. Насыщенный вкус и густой пар для истинных ценителей.",
-    "img": "https://hookah-baza.ru/image/cache/catalog/mara-500x600.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Glitch Rasin EXTRA 20mg",
-    "price": 1,
-    "category": "juice",
-    "desc": "Жидкость с изюминкой — фруктово-ягодные ноты на солевом никотине 20 мг. Плавное угощение.",
-    "img": "https://tobolsk.indi-shop.ru/image/cache/catalog/foto-tovarov/vape/jidkosti/salt/glitchsauce/raisin/cranberry-lemonade-800x800.png?1727180340"
-  },
-  {
     "id": 3,
     "name": "Glitch Sauce 20mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Соусная серия: яркий вкус и плотная текстурa пара. Крепость 20 мг для комфортного парения.",
     "img": "https://hookahhouse.ru/upload/resize_cache/iblock/a72/450_450_140cd750bba9870f18aada2478b24840a/10tunj2x40s8zy0l3opz2j3b1r1rjtsk.png"
