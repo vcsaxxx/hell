@@ -10,7 +10,7 @@
   {
     "id": 4,
     "name": "HUSKY&МИШКИ",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Любимая многими серия с мягким вкусом ягодного мармелада. Солевая жидкость 20 мг.",
     "img": "https://vape.market/wp-content/uploads/2025/07/ZHidkost-Mishka-x-Husky-salt-30ml-sladkaya-myata.jpg"
@@ -18,7 +18,7 @@
   {
     "id": 5,
     "name": "Hotspot",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Горячая точка вкуса — тропический микс с ледяным финишем. Крепость 20 мг.",
     "img": "https://vape.market/wp-content/uploads/2025/07/ZHidkost-Hotspot-DONT-Chew-IT-salt-30ml-ledyanoj-vinograd-20-hard.jpg"
@@ -26,7 +26,7 @@
   {
     "id": 6,
     "name": "Daff",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Оригинальный вкус от Daff. Сбалансированная сладость и свежесть. 20 мг соли.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/23/16/31623/images/25309/INDO_SOUR_SALT_-_DAFT_GAL.970.png"
@@ -34,7 +34,7 @@
   {
     "id": 7,
     "name": "Dual",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Двойная энергия: сочные фрукты и лёд. Жидкость на солевом никотине 20 мг.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/19/99/29919/images/23161/Duall_Salt_yabloko_malina.970.jpg"
@@ -42,7 +42,7 @@
   {
     "id": 8,
     "name": "MONSTER 50mg",
-    "price": 1,
+    "price": 370,
     "category": "juice",
     "desc": "Монстр-крепость 50 мг для быстрого насыщения. Экстремально холодные и фруктовые вкусы.",
     "img": "https://tagil.cosmoshop.pro/upload/resize_cache/iblock/79d/450_450_140cd750bba9870f18aada2478b24840a/b1jj5tkz78mrg6faqdxv9l6er1m4442a.PNG"
@@ -50,7 +50,7 @@
   {
     "id": 9,
     "name": "MONSTER SOUR 50mg",
-    "price": 1,
+    "price": 370,
     "category": "juice",
     "desc": "Кислотный монстр: взрыв кислинки и 50 мг никотина. Для любителей остроты ощущений.",
     "img": "https://dartvaper.ua/files/products/nabor-monster-liquid-sour-apple-30-ml1.800x800.jpg.webp"
@@ -58,7 +58,7 @@
   {
     "id": 10,
     "name": "MONSTERVAPOR 20mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Классическая линейка Monstervapor с крепостью 20 мг. Гармоничные вкусы и отличная живучесть.",
     "img": "https://tagil.cosmoshop.pro/upload/resize_cache/iblock/07b/450_450_140cd750bba9870f18aada2478b24840a/tldtnvf9gbraia1re3qb01xqxhfwagnt.jpg"
@@ -66,7 +66,7 @@
   {
     "id": 11,
     "name": "MONSTERVAPOR 50mg",
-    "price": 1,
+    "price": 370,
     "category": "juice",
     "desc": "Ультра-версия 50 мг: максимальный тротхит и яркий аромат. Идеально для под-систем.",
     "img": "https://tagil.cosmoshop.pro/upload/resize_cache/iblock/07b/450_450_140cd750bba9870f18aada2478b24840a/tldtnvf9gbraia1re3qb01xqxhfwagnt.jpg"
@@ -74,7 +74,7 @@
   {
     "id": 12,
     "name": "NARCOZ 20mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Затягивающие вкусы с крепостью 20 мг. Сочные фрукты и ягоды без лишней сладости.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Narcoz-salt-kislye-mishki-20-mg-MM-zhidkost-dlya-pod-sistem.jpg"
@@ -82,7 +82,7 @@
   {
     "id": 13,
     "name": "NARCOZ 50mg",
-    "price": 1,
+    "price": 370,
     "category": "juice",
     "desc": "Тяжёлая артиллерия: 50 мг и неповторимые микс-вкусы. Для опытных вейперов.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Narcoz-salt-kislye-mishki-20-mg-MM-zhidkost-dlya-pod-sistem.jpg"
@@ -90,7 +90,7 @@
   {
     "id": 14,
     "name": "OGGO",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Premium-жидкость с мягким послевкусием. 20 мг соли — баланс вкуса и крепости.",
     "img": "https://static.insales-cdn.com/images/products/1/7223/637885495/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D1%8C_OGGO_Reels_Ice_Salt_-_%D0%90%D0%BB%D0%BE%D1%8D_%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_30_%D0%BC%D0%BB.jpeg"
@@ -98,7 +98,7 @@
   {
     "id": 15,
     "name": "PEREDOZ",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Смесь ягод и тропиков с ледяной нотой. Насыщенный вкус при 20 мг никотина.",
     "img": "https://static.insales-cdn.com/images/products/1/1847/924092215/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D1%8C_PEREDOZ_V12_all.jpg"
@@ -106,7 +106,7 @@
   {
     "id": 16,
     "name": "PHANTOM 50mg",
-    "price": 1,
+    "price": 370,
     "category": "juice",
     "desc": "Призрачная крепость 50 мг: невидимый удар, яркий вкус. Идеально для скрытного парения.",
     "img": "https://milkyvape.shop/content/images/7/1000x1000l80bc30/nabir-phantom-30ml-50mg-cherry-menthol-59447357243402.jpg"
@@ -114,7 +114,7 @@
   {
     "id": 17,
     "name": "PIXEL 35mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Пиксельный вкус — чёткий, яркий, без пикселизации. Крепость 35 мг, золотая середина.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/53/51/35153/images/40321/Pixel_Zero_Bablgam_Vkus_Bablgam.970.jpg"
@@ -122,7 +122,7 @@
   {
     "id": 18,
     "name": "RICK AND MORTY & CATSWILL (HARD)",
-    "price": 1,
+    "price": 370,
     "category": "juice",
     "desc": "Жёсткая версия: убойная крепость и безумные вкусы от Рика и Морти. HARD-серия.",
     "img": "https://xn--24-6kcaae8d0c6b.xn--p1ai/thumb/2/dpbA220k-PF-fkTZBOUmWg/350r350/d/skitls-klubnika-kivi.png"
@@ -130,7 +130,7 @@
   {
     "id": 19,
     "name": "RICK AND MORTY & CATSWILL (MEDIUM)",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Средняя крепость для повседневного парения. Те же безумные вкусы, мягкий удар.",
     "img": "https://xn--24-6kcaae8d0c6b.xn--p1ai/thumb/2/dpbA220k-PF-fkTZBOUmWg/350r350/d/skitls-klubnika-kivi.png"
@@ -138,7 +138,7 @@
   {
     "id": 20,
     "name": "RICK and MORTY на замерзоне MEDIUM",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Ледяная серия на замерзоне. Средняя крепость, арктическая свежесть с фруктовым вкусом.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/71/47/34771/images/39771/10_Marmeladnyy-glir-glop___dva.970.jpg"
@@ -146,7 +146,7 @@
   {
     "id": 21,
     "name": "RICK and MORTY на замерзоне КИСЛЫЕ HARD",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Кисло-ледяной взрыв. Жёсткая версия (HARD) для любителей экстрима на морозе.",
     "img": "https://stariyoskol.vapehook.ru/wa-data/public/shop/products/12/02/10212/images/2720/image.970.png"
@@ -154,7 +154,7 @@
   {
     "id": 22,
     "name": "RICK and MORTY на замерзоне КИСЛЫЕ MEDIUM",
-    "price": 1,
+    "price": 340,
     "category": "juice",
     "desc": "Умеренно кислые и очень холодные. MEDIUM — баланс вкуса и свежести.",
     "img": "https://stariyoskol.vapehook.ru/wa-data/public/shop/products/12/02/10212/images/2720/image.970.png"
@@ -162,7 +162,7 @@
   {
     "id": 23,
     "name": "SKALA 20mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Шкала вкуса: от сладкого до ледяного. 20 мг — комфортная крепость для pod-систем.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Skala-salt-30ml-vinograd-so-ldom.jpg"
@@ -170,7 +170,7 @@
   {
     "id": 24,
     "name": "SKALA 50mg",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Максимальная шкала: 50 мг. Только для опытных. Мощный тротхит и яркий вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Skala-salt-30ml-vinograd-so-ldom.jpg"
@@ -178,7 +178,7 @@
   {
     "id": 25,
     "name": "TRAVA 20mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Травяные ноты с фруктовым акцентом. Крепость 20 мг — мягкий, но стойкий вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Trava-Ice-salt-30-ml-fanta_grape-20mg-M-zhidkost-dlya-pod-sistem.jpg"
@@ -186,7 +186,7 @@
   {
     "id": 26,
     "name": "TRAVA 50mg",
-    "price": 1,
+    "price": 350,
     "category": "juice",
     "desc": "Ударная доза 50 мг с травянисто-фруктовым профилем. Для ценителей насыщенных жидкостей.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Trava-Ice-salt-30-ml-fanta_grape-20mg-M-zhidkost-dlya-pod-sistem.jpg"
@@ -194,15 +194,15 @@
   {
     "id": 27,
     "name": "Trava Up 50mg",
-    "price": 1,
+    "price": 360,
     "category": "juice",
     "desc": "Улучшенная формула Trava: больше вкуса, 50 мг крепости. Плавное и плотное парение.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Trava-Ice-salt-30-ml-fanta_grape-20mg-M-zhidkost-dlya-pod-sistem.jpg"
   },
   {
     "id": 28,
-    "name": "ЗЛАЯ ЛАБУБУ SOUR",
-    "price": 1,
+    "name": "ЗЛАЯ ЛМОНАШКА & РЩЕЫЗЩЕ (70мг)",
+    "price": 380,
     "category": "juice",
     "desc": "Кислые леденцы в жидком формате. Злая кислинка и лёд. Крепость 20 мг.",
     "img": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/3348092/Z14g8lM0fHbyXV0MLeQw.jpg"
@@ -210,7 +210,7 @@
   {
     "id": 29,
     "name": "САМОУБИЙЦА V2 ACID 70mg",
-    "price": 1,
+    "price": 380,
     "category": "juice",
     "desc": "Экстремальная крепость 70 мг! Кислотный микс для самых отчаянных. V2 — новая формула.",
     "img": "https://vapehook.ru/wa-data/public/shop/products/92/36/13692/images/3224/img_69f317b2ba7994.16046729.970.png"
@@ -218,7 +218,7 @@
   {
     "id": 30,
     "name": "ISTERIKA LETHAL ENERGY",
-    "price": 1,
+    "price": 360,
     "category": "sale",
     "desc": "Никотиновые пластинки «Истерика» со вкусом энергетика. Быстрый способ получить никотин.",
     "img": "https://gosmoke.ru/image/cache/1b56f390241b119287da9e05e73eda48.jpg"
@@ -226,7 +226,7 @@
   {
     "id": 31,
     "name": "KASTA COVID Strong",
-    "price": 1,
+    "price": 320,
     "category": "sale",
     "desc": "Мощные никотиновые пластинки «Каста». Сильная крепость, долгое действие.",
     "img": "https://vapehousecrimea.ru/files/resized/products/screenshot_52_57.600x800.png"
@@ -234,7 +234,7 @@
   {
     "id": 32,
     "name": "LOOP (копия)",
-    "price": 1,
+    "price": 280,
     "category": "sale",
     "desc": "Никотиновые ватки LOOP — копия. Удобный формат, разные вкусы. Быстрое насыщение.",
     "img": "https://gosmoke.ru/image/cache/86000aaf58ea8b3e6d8ddbb7e02c562c.jpg"
@@ -242,7 +242,7 @@
   {
     "id": 33,
     "name": "LOOP (оригинал)",
-    "price": 1,
+    "price": 320,
     "category": "sale",
     "desc": "Оригинальные никотиновые ватки LOOP. Высокое качество, мягкие и крепкие варианты.",
     "img": "https://gosmoke.ru/image/cache/86000aaf58ea8b3e6d8ddbb7e02c562c.jpg"
@@ -250,7 +250,7 @@
   {
     "id": 34,
     "name": "SNOOPYSMOKE 40000",
-    "price": 1,
+    "price": 690,
     "category": "disposable",
     "desc": "Одноразовая электронная сигарета SnoopySmoke на 40000 затяжек. Яркие вкусы.",
     "img": "https://sadovodoptom.ru/wa-data/public/shop/products/16/00/10016/images/17666/17666.580.jpeg"
@@ -258,7 +258,7 @@
   {
     "id": 35,
     "name": "SNOOPYSMOKE 50000",
-    "price": 1,
+    "price": 830,
     "category": "disposable",
     "desc": "Гигантская одноразка на 50000 тяг. Максимальный ресурс, насыщенный вкус.",
     "img": "https://kalyankarat.ru/wp-content/uploads/2025/12/attachment22-680x907.jpeg"
@@ -266,23 +266,15 @@
   {
     "id": 36,
     "name": "UDN 13000",
-    "price": 1,
+    "price": 750,
     "category": "disposable",
     "desc": "Компактная одноразка UDN на 13000 затяжек. Отличный вариант на каждый день.",
     "img": "https://sadovodoptom.ru/wa-data/public/shop/products/39/77/7739/images/15071/15071.580.jpeg"
   },
   {
-    "id": 37,
-    "name": "UDN S 25000",
-    "price": 1,
-    "category": "disposable",
-    "desc": "Увеличенная версия UDN S на 25000 тяг. Больше пара, больше вкуса.",
-    "img": "https://sadovodoptom.ru/wa-data/public/shop/products/21/90/9021/images/16649/16649.580.jpeg"
-  },
-  {
     "id": 38,
     "name": "UDN SR 20000",
-    "price": 1,
+    "price": 800,
     "category": "disposable",
     "desc": "Модель UDN SR на 20000 затяжек. Баланс компактности и автономности.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/14743_middle.png"
@@ -290,7 +282,7 @@
   {
     "id": 39,
     "name": "VOZOL GEAR POWER 20000 puffs",
-    "price": 1,
+    "price": 1000,
     "category": "disposable",
     "desc": "Мощная одноразка Vozol Gear Power. 20000 затяжек, регулируемая тяга, насыщенный пар.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vozol-20000-mixed-berries-MM-odnorazovaya-elektronnaya-sigareta.jpg"
@@ -298,23 +290,15 @@
   {
     "id": 40,
     "name": "VOZOL GEAR Shisha 25000 puffs",
-    "price": 1,
+    "price": 1000,
     "category": "disposable",
     "desc": "Одноразка Vozol Gear в стиле кальяна. 25000 тяг, яркие фруктово-ледяные вкусы.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vozol-Gear-Shisha-25000-klubnika_kivi_led-M.jpg"
   },
   {
-    "id": 41,
-    "name": "VOZOL RAVE 40000",
-    "price": 1,
-    "category": "disposable",
-    "desc": "Гигантская Vozol Rave на 40000 затяжек. Эффектный дизайн и огромный ресурс.",
-    "img": "https://vape.market/wp-content/uploads/2025/09/Vozol-Rave-40000-peach-ice-M.jpg"
-  },
-  {
     "id": 43,
     "name": "VOZOL RAVE 46000",
-    "price": 1,
+    "price": 1200,
     "category": "disposable",
     "desc": "Одноразка Vozol Rave 46000 затяжек. Огромный ресурс, насыщенный пар, стильный корпус.",
     "img": "https://vape.market/wp-content/uploads/2025/09/Vozol-Rave-40000-peach-ice-M.jpg"
@@ -322,7 +306,7 @@
   {
     "id": 44,
     "name": "VOZOL vista 20000 puffs",
-    "price": 1,
+    "price": 1300,
     "category": "disposable",
     "desc": "Vozol Vista — одноразка с прозрачным корпусом. 20000 тяг.",
     "img": "https://media.vaping360.com/images/vozol-vista-16000-20000-7ea050d3b9.webp?imageType=Standard&MaxWidth=500&MaxHeight=500"
@@ -330,7 +314,7 @@
   {
     "id": 45,
     "name": "WAKA 20000",
-    "price": 1,
+    "price": 1200,
     "category": "disposable",
     "desc": "Популярная модель Waka на 20000 затяжек. Отличная передача вкуса и плавная тяга.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Waka-soPro-20000-energetik_chernaya-smorodina-MM-odnorazovaya-elektronnaya-sigareta.jpg"
@@ -338,7 +322,7 @@
   {
     "id": 46,
     "name": "WAKA 25000 (new)",
-    "price": 1,
+    "price": 1250,
     "category": "disposable",
     "desc": "Новая версия Waka на 25000 тяг. Улучшенная испарительная система и стильный дизайн.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/14697_middle.png"
@@ -346,23 +330,15 @@
   {
     "id": 47,
     "name": "DUALL NICBAR 50000",
-    "price": 1,
+    "price": 1300,
     "category": "disposable",
     "desc": "Монстр среди одноразок — Duall Nicbar на 50000 затяжек. Двойной резервуар и мощный аккумулятор.",
     "img": "https://kalyankarat.ru/wp-content/uploads/2025/10/photo-2025-10-21-09-35-181-680x907.jpg"
   },
   {
-    "id": 48,
-    "name": "ELFBAR BOOSTER 30000",
-    "price": 1,
-    "category": "disposable",
-    "desc": "Elfbar Booster на 30000 тяг. Знаменитое качество Elfbar в увеличенном формате.",
-    "img": "https://am.driptip.su/wa-data/public/shop/products/31/58/35831/images/41693/Elf_Bar_Booster_30000_-_Ledyanoy_Arbuz_Myata.970.jpg"
-  },
-  {
     "id": 49,
     "name": "ELFBAR GH 23000",
-    "price": 1,
+    "price": 1350,
     "category": "disposable",
     "desc": "Elfbar GH на 23000 затяжек. Компактная и вкусная.",
     "img": "https://smoke-village.cdn.webasyst.cloud/wa-data/public/shop/products/20/10/11020/images/23132/23132.970.jpg"
@@ -370,15 +346,15 @@
   {
     "id": 50,
     "name": "ELFBAR GH33000 PRO",
-    "price": 1,
+    "price": 1450,
     "category": "disposable",
     "desc": "Продвинутая модель Elfbar GH33000 Pro. 33000 тяг, улучшенная подача вкуса.",
     "img": "https://gosmoke.ru/image/cache/7bc3b24c3ab3c4ce8cbf4f7d097ab005.jpg"
   },
   {
     "id": 51,
-    "name": "ELFBAR ICE KING 30000",
-    "price": 1,
+    "name": "ELFBAR NIC KING 30000",
+    "price": 1350,
     "category": "disposable",
     "desc": "Король льда — серия с максимальной свежестью. 30000 затяжек.",
     "img": "https://vape.market/wp-content/uploads/2025/08/Elf-bar-Ice-King-30000-ezhevikaklyukva-M.jpg"
@@ -386,7 +362,7 @@
   {
     "id": 52,
     "name": "ELFBAR MOONNIGHT 25000",
-    "price": 1,
+    "price": 1100,
     "category": "disposable",
     "desc": "Лунная серия Elfbar. Мягкие, таинственные вкусы и 25000 тяг.",
     "img": "https://vape.market/wp-content/uploads/2025/11/Elf-Bar-Moonlight-25000-vishnya-arbuz-M.jpg"
@@ -394,7 +370,7 @@
   {
     "id": 53,
     "name": "ELFBAR SOUR KING 30000",
-    "price": 1,
+    "price": 1150,
     "category": "disposable",
     "desc": "Король кислинки — Elfbar Sour King. Яркий кисло-сладкий вкус, 30000 затяжек.",
     "img": "https://tabaking.shop/image/cache/catalog/image/cache/catalog/elf%20bar/elf-bar-sour-king-30000/kislaya-chernika-arbuz-700x700.webp"
@@ -402,7 +378,7 @@
   {
     "id": 54,
     "name": "ELFBAR TRIPLEX 30000",
-    "price": 1,
+    "price": 1200,
     "category": "disposable",
     "desc": "Серия Triplex: три вкуса в одной одноразке. 30000 тяг, переключаемые режимы.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/15687_middle.png"
@@ -410,7 +386,7 @@
   {
     "id": 55,
     "name": "FUNKY LANDS 15000",
-    "price": 1,
+    "price": 890,
     "category": "disposable",
     "desc": "Яркие и сочные вкусы Funky Lands. 15000 затяжек — идеально для знакомства.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/14628_middle.png"
@@ -418,7 +394,7 @@
   {
     "id": 56,
     "name": "HOTSPOT 12000",
-    "price": 1,
+    "price": 1300,
     "category": "disposable",
     "desc": "Компактная одноразка Hotspot на 12000 тяг. Тёплый пар и насыщенные ароматы.",
     "img": "https://static.insales-cdn.com/r/4FHU5827vNI/rs:fit:440:0:1/q:100/plain/images/products/1/7721/944274985/large_yellow_mix-Photoroom.png@webp"
@@ -426,7 +402,7 @@
   {
     "id": 57,
     "name": "Lost Marry MO 30000",
-    "price": 1,
+    "price": 1350,
     "category": "disposable",
     "desc": "Lost Marry MO на 30000 затяжек. Плавная тяга и яркий вкус.",
     "img": "https://papa-vape-opt.com/pictures/product/big/15010_big.jpeg"
@@ -434,23 +410,15 @@
   {
     "id": 58,
     "name": "LOST MARRY OS 12000",
-    "price": 1,
+    "price": 1050,
     "category": "disposable",
     "desc": "Модель Lost Marry OS на 12000 тяг. Компактность и богатый вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Mary-OS12000-kivi_dynya_yabloko-MM-odnorazovaya-elektronnaya-sigareta.jpg"
   },
   {
-    "id": 59,
-    "name": "LOST MARY MIXER 25000",
-    "price": 1,
-    "category": "disposable",
-    "desc": "Миксер вкусов: можно смешивать прямо в устройстве. 25000 затяжек.",
-    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Mary-Mixer-25000-miks-myata-M.jpg"
-  },
-  {
     "id": 60,
     "name": "LOST MARY MO 10000 Golden black",
-    "price": 1,
+    "price": 990,
     "category": "disposable",
     "desc": "Элегантная версия Lost Mary MO в цвете Golden black. 10000 затяжек.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Mary-BlackGold-MO10000-bajya-blast-MM-odnorazovaya-elektronnaya-sigareta.jpg"
@@ -458,7 +426,7 @@
   {
     "id": 61,
     "name": "LOST MARY MT 15000 TURBO",
-    "price": 1,
+    "price": 1450,
     "category": "disposable",
     "desc": "Турбо-версия Lost Mary MT на 15000 тяг. Усиленный поток воздуха и вкус.",
     "img": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E"
@@ -466,7 +434,7 @@
   {
     "id": 62,
     "name": "LOST MARY MT 35000",
-    "price": 1,
+    "price": 1450,
     "category": "disposable",
     "desc": "Увеличенная модель Lost Mary MT на 35000 затяжек. Максимальный ресурс.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/16173_middle.png"
@@ -474,7 +442,7 @@
   {
     "id": 63,
     "name": "LOST VAPE LV 18К",
-    "price": 1,
+    "price": 890,
     "category": "disposable",
     "desc": "Одноразка Lost Vape LV на 18000 тяг. Премиальное качество и стильный дизайн.",
     "img": "https://vapenews.ru/storage/articles/images/17_6_2024/17186537460.jpg"
@@ -482,7 +450,7 @@
   {
     "id": 64,
     "name": "NANCY 6000 2%",
-    "price": 1,
+    "price": 450,
     "category": "disposable",
     "desc": "Мини-одноразка Nancy на 6000 затяжек. Крепость 2%, мягкий вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Nancy-Black-6000-fresh-strawberry-M-odnorazovaya-elektronnaya-sigareta.jpg"
@@ -490,7 +458,7 @@
   {
     "id": 65,
     "name": "PUFFMI PURE 12000",
-    "price": 1,
+    "price": 650,
     "category": "disposable",
     "desc": "Чистый вкус Puffmi Pure. 12000 тяг, никаких лишних примесей.",
     "img": "https://vape.market/wp-content/uploads/2025/09/Puffmi-Pure-12000-pineapplelemonwatermelon.jpg"
@@ -498,7 +466,7 @@
   {
     "id": 66,
     "name": "PUFFMI TANK 16000",
-    "price": 1,
+    "price": 850,
     "category": "disposable",
     "desc": "Мощная Puffmi Tank на 16000 затяжек. Большой бак и насыщенный пар.",
     "img": "https://vape.market/wp-content/uploads/2026/03/Puffmi-Tank-16000-apelsin_kivi-M.jpg"
@@ -506,7 +474,7 @@
   {
     "id": 67,
     "name": "RICK and MORTY на Замерзоне EXTRA HARD 20000",
-    "price": 1,
+    "price": 1100,
     "category": "disposable",
     "desc": "Ледяная одноразка Rick and Morty. EXTRA HARD — экстремальная крепость, 20000 тяг.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/15580_middle.png"
@@ -514,7 +482,7 @@
   {
     "id": 68,
     "name": "WAKA Xland 15000",
-    "price": 1,
+    "price": 950,
     "category": "disposable",
     "desc": "Waka Xland на 15000 затяжек. Сочетание фруктов и льда.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Xland-15000-zelenyj-vinograd-M.jpg"
@@ -522,7 +490,7 @@
   {
     "id": 69,
     "name": "WAKA Xland 35000",
-    "price": 1,
+    "price": 1000,
     "category": "disposable",
     "desc": "Waka Xland на 35000 тяг. Максимальный ресурс и сочный вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/11/Xland-Spike-35000-limonnaya-ledyanaya-kola-M.jpg"
@@ -530,39 +498,23 @@
   {
     "id": 70,
     "name": "YOOZ HUNK 15000",
-    "price": 1,
+    "price": 600,
     "category": "disposable",
     "desc": "Одноразка Yooz Hunk на 15000 затяжек. Стильный дизайн, яркие ароматы.",
     "img": "https://papa-vape-opt.com/pictures/product/middle/14306_middle.png"
   },
   {
-    "id": 71,
-    "name": "LOST VAPE - URASA NONO S",
-    "price": 1,
-    "category": "devices",
-    "desc": "Под-система Lost Vape URSA NONO S. Компактная, надёжная, с отличной передачей вкуса.",
-    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Vape-Ursa-Nano-S-II-pink-dauphine-elektronnaya-sigareta.jpg"
-  },
-  {
     "id": 72,
     "name": "URSA NANO S II",
-    "price": 1,
+    "price": 970,
     "category": "devices",
     "desc": "Вторая версия URSA NANO S. Ещё удобнее, мощнее, стильнее. Идеальный под для соли.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Vape-Ursa-Nano-S-II-pink-dauphine-elektronnaya-sigareta.jpg"
   },
   {
-    "id": 73,
-    "name": "LOST VAPE - URASA CAP",
-    "price": 1,
-    "category": "devices",
-    "desc": "Lost Vape URSA CAP — надёжный под-кит с регулировкой обдува. Отличный выбор для новичков.",
-    "img": "https://vape.market/wp-content/uploads/2025/07/Lost-Vape-Ursa-Cap-pink-carnival-elektronnaya-sigareta.jpg"
-  },
-  {
     "id": 74,
     "name": "Vaporesso XROS 5",
-    "price": 1,
+    "price": 1970,
     "category": "devices",
     "desc": "Флагманская под-система Vaporesso XROS 5. Плавная регулировка, мощный аккумулятор, картриджи Corex 2.0.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-5-opal-white-elektronnaya-sigareta.jpg"
@@ -570,7 +522,7 @@
   {
     "id": 75,
     "name": "Vaporesso XROS 5 Leather limited",
-    "price": 1,
+    "price": 1999,
     "category": "devices",
     "desc": "Лимитированная версия XROS 5 с кожаной отделкой. Премиум-дизайн и те же выдающиеся характеристики.",
     "img": "https://vape.market/wp-content/uploads/2025/12/Vaporesso-Xros-5-Leather-Edition-red-leather-elektronnaya-sigareta.jpg"
@@ -578,31 +530,15 @@
   {
     "id": 76,
     "name": "Vaporesso XROS 5 mini",
-    "price": 1,
+    "price": 1500,
     "category": "devices",
     "desc": "Уменьшенная версия XROS 5. Компактная, лёгкая, но с тем же качеством пара и вкуса.",
     "img": ""
   },
   {
-    "id": 77,
-    "name": "Vaporesso XROS 5 mini Kit COOL",
-    "price": 1,
-    "category": "devices",
-    "desc": "XROS 5 mini в стиле «Cool». Свежий дизайн и надёжная работа.",
-    "img": ""
-  },
-  {
-    "id": 78,
-    "name": "Vaporesso XROS 5 mini Leather limited",
-    "price": 1,
-    "category": "devices",
-    "desc": "Кожаная лимитка на базе XROS 5 mini. Элегантность и компактность.",
-    "img": ""
-  },
-  {
     "id": 79,
     "name": "Vaporesso Xros Pro",
-    "price": 1,
+    "price": 1900,
     "category": "devices",
     "desc": "Профессиональная версия Xros. Расширенный функционал, режим затяжки, аккумулятор 1000 мАч.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-Pro-purple-elektronnaya-sigareta.jpg"
@@ -610,7 +546,7 @@
   {
     "id": 80,
     "name": "Vaporesso Xros Pro 2",
-    "price": 1,
+    "price": 2000,
     "category": "devices",
     "desc": "Второе поколение Xros Pro. Ещё больше настроек, ещё лучше вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/11/Vaporesso-Xros-Pro-2-glittering-black-elektronnaya-sigareta.jpg"
@@ -618,7 +554,7 @@
   {
     "id": 81,
     "name": "Xros 3 mini",
-    "price": 1,
+    "price": 999,
     "category": "devices",
     "desc": "Проверенная временем Xros 3 mini. Простая и надёжная под-система для солевой жидкости.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-3-mini-navy-blue-elektronnaya-sigareta.jpg"
@@ -626,7 +562,7 @@
   {
     "id": 82,
     "name": "Xros 4",
-    "price": 1,
+    "price": 1870,
     "category": "devices",
     "desc": "Xros 4: улучшенная автономия, новые картриджи. Плавный вкус и густой пар.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-4-black-elektronnaya-sigareta.jpg"
@@ -634,7 +570,7 @@
   {
     "id": 83,
     "name": "Xros 4 mini",
-    "price": 1,
+    "price": 1350,
     "category": "devices",
     "desc": "Миниатюрная Xros 4. Всё преимущества серии в компактном корпусе.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-4-mini-champagne-gold-elektronnaya-sigareta.jpg"
@@ -642,7 +578,7 @@
   {
     "id": 84,
     "name": "Xros 4 nano",
-    "price": 1,
+    "price": 1800,
     "category": "devices",
     "desc": "Нано-версия Xros 4. Крошечный размер, но полноценный вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-4-Nano-race-track-elektronnaya-sigareta.jpg"
@@ -650,7 +586,7 @@
   {
     "id": 90,
     "name": "Aegis boost 2 (B60)",
-    "price": 1,
+    "price": 2650,
     "category": "devices",
     "desc": "GeekVape Aegis Boost 2 (B60). Защита от ударов, пыли и воды. Мощность до 60 Вт.",
     "img": "https://vape.market/wp-content/uploads/2025/07/GeekVape-B60-Aegis-boost-2-blue-red-elektronnaya-sigareta.jpg"
@@ -658,7 +594,7 @@
   {
     "id": 91,
     "name": "Aegis hero 2 (H45)",
-    "price": 1,
+    "price": 2350,
     "category": "devices",
     "desc": "GeekVape Aegis Hero 2 (H45). Прочный под-кит с мощностью 45 Вт. Идеален для соли.",
     "img": "https://vape.market/wp-content/uploads/2025/07/GeekVape-H45-Aegis-Hero-2-sky-blue-elektronnaya-sigareta.jpg"
@@ -666,7 +602,7 @@
   {
     "id": 92,
     "name": "Aegis Hero 5 NEW!",
-    "price": 1,
+    "price": 2450,
     "category": "devices",
     "desc": "Новинка — Aegis Hero 5. Улучшенная герметизация, картридж 6.5 мл, насыщенный вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/09/Geek-Vape-Aegis-Hero-5-blaze-red-elektronnaya-sigareta.jpg"
@@ -674,7 +610,7 @@
   {
     "id": 93,
     "name": "Aegis hero classic (H45)",
-    "price": 1,
+    "price": 2350,
     "category": "devices",
     "desc": "Классический Aegis Hero (H45). Легендарная надёжность и отличная передача вкуса.",
     "img": "https://eltobacco.ru/wp-content/uploads/2024/07/c215fd07-eb58-4705-98af-747573b4966f_c2b91143-2f64-49f4-94d2-c1b1934aa7e7-600x600.jpg"
@@ -682,7 +618,7 @@
   {
     "id": 94,
     "name": "Aegis Hero Q",
-    "price": 1,
+    "price": 1999,
     "category": "devices",
     "desc": "Aegis Hero Q — кварцевая версия. Стильный дизайн и мощный аккумулятор.",
     "img": "https://vape.market/wp-content/uploads/2025/07/GeekVape-Aegis-Hero-Q-rainbow-elektronnaya-sigareta.jpg"
@@ -690,23 +626,15 @@
   {
     "id": 95,
     "name": "Xros 5 nano",
-    "price": 1,
+    "price": 2000,
     "category": "devices",
     "desc": "Ультра-компактная Xros 5 nano. Маленький размер, огромный вкус.",
     "img": "https://vape.market/wp-content/uploads/2026/01/Vaporesso-Xros-5-Nano-nacre-elektronnaya-sigareta.jpg"
   },
   {
-    "id": 96,
-    "name": "Xros Cube",
-    "price": 1,
-    "category": "devices",
-    "desc": "Кубический дизайн Xros Cube. Необычная форма, стандартные картриджи Xros.",
-    "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-Cube-glitter-gold-elektronnaya-sigareta.jpg"
-  },
-  {
     "id": 97,
     "name": "Xros mini",
-    "price": 1,
+    "price": 1000,
     "category": "devices",
     "desc": "Базовая модель Xros mini. Простота, надёжность, отличный вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vaporesso-Xros-mini-gold.jpg"
@@ -714,7 +642,7 @@
   {
     "id": 98,
     "name": "Vmate Pro",
-    "price": 1,
+    "price": 1100,
     "category": "devices",
     "desc": "Voopoo Vmate Pro. Элегантный под с регулировкой обдува и мощностью до 30 Вт.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Vmate-Pro-pink-elektronnaya-sigareta.jpg"
@@ -722,7 +650,7 @@
   {
     "id": 99,
     "name": "Smoant Knight 80",
-    "price": 1,
+    "price": 2350,
     "category": "devices",
     "desc": "Smoant Knight 80. Мощность 80 Вт, сменные испарители, отличный вкус.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Smoant-Knight-80-SS-elektronnaya-sigareta.jpg"
@@ -730,7 +658,7 @@
   {
     "id": 100,
     "name": "Smoant Pasito 2",
-    "price": 1,
+    "price": 2350,
     "category": "devices",
     "desc": "Smoant Pasito 2. Популярный под-кит с картриджами и испарителями K серии.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Smoant-Pasito-2-dreamy-pink-elektronnaya-sigareta.jpg"
@@ -738,7 +666,7 @@
   {
     "id": 101,
     "name": "Smoant Pasito 3 new!!",
-    "price": 1,
+    "price": 2850,
     "category": "devices",
     "desc": "Новинка — Smoant Pasito 3. Улучшенная система подачи воздуха и новые картриджи.",
     "img": "https://vape.market/wp-content/uploads/2026/01/Smoant-Pasito-3-matte-black-elektronnaya-sigareta.jpg"
@@ -746,7 +674,7 @@
   {
     "id": 102,
     "name": "Испаритель Smoant Santi S-5 0.55ом (18-25W)",
-    "price": 1,
+    "price": 200,
     "category": "liquid",
     "desc": "Сменный испаритель для Smoant Santi. Сопротивление 0.55 Ом, от 18 до 25 Вт. Хорошая передача вкуса.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/26/19/31926/images/25785/santi_s-5.970.jpg"
@@ -754,7 +682,7 @@
   {
     "id": 103,
     "name": "Картридж Pasito 3",
-    "price": 1,
+    "price": 410,
     "category": "liquid",
     "desc": "Оригинальный картридж для Smoant Pasito 3. Вместительный, с удобной заливкой.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/07/59/35907/images/41974/Smoant_Pasito_3_cartridge.970.jpg"
@@ -762,7 +690,7 @@
   {
     "id": 104,
     "name": "Картридж Pasito mini 3.5ml (Без испарителя)",
-    "price": 1,
+    "price": 350,
     "category": "liquid",
     "desc": "Картридж для Pasito mini объёмом 3.5 мл. Без испарителя, используйте свои.",
     "img": "https://vardex.ru/upload/resize_cache/iblock/6c6/hvv2rze2s6a26qegknh8l0b1aja4q90d/400_400_040cd750bba9870f18aada2478b24840a/smoant_pasito_mini_kartridzh_pod_3_5ml_bez_isparitelya-1.jpeg"
@@ -770,7 +698,7 @@
   {
     "id": 105,
     "name": "Испаритель Smoant Battlestar 0.6ohm",
-    "price": 1,
+    "price": 200,
     "category": "liquid",
     "desc": "Испаритель для Smoant Battlestar. Сопротивление 0.6 Ом, универсальный для соли и обычной жидкости.",
     "img": "https://vardex.ru/upload/resize_cache/iblock/086/400_400_040cd750bba9870f18aada2478b24840a/isparitel-smoant-battlestar-baby-mesh-06-om.jpg"
@@ -778,7 +706,7 @@
   {
     "id": 106,
     "name": "Испаритель Smoant Pasito 2/Knight 80 K1 0.3ом (50-65W)",
-    "price": 1,
+    "price": 260,
     "category": "liquid",
     "desc": "Испаритель K1 для Pasito 2 и Knight 80. 0.3 Ом, мощность 50-65 Вт — для густого пара.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/10/80/28010/images/20192/Smoant_Knight_80_Replacement_Coil_-_03ohm.650x0.jpg"
@@ -786,7 +714,7 @@
   {
     "id": 107,
     "name": "Испаритель Smoant Pasito 2/Knight 80 K2",
-    "price": 1,
+    "price": 260,
     "category": "liquid",
     "desc": "Испаритель K2 (уточняйте сопротивление). Подходит для Pasito 2 и Knight 80.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Isparitel-Smoant-knight_Pasito-II-K2-0.4.jpg"
@@ -794,7 +722,7 @@
   {
     "id": 108,
     "name": "Испаритель Smoant Pasito mini P3 1.0 ом",
-    "price": 1,
+    "price": 230,
     "category": "liquid",
     "desc": "Испаритель P3 1.0 Ом для Pasito mini. Оптимален для солевых жидкостей (MTL).",
     "img": "https://vape.market/wp-content/uploads/2025/07/Isparitel-Smoant-Pasito-mini-coil-P-3-1.0.jpg"
@@ -802,7 +730,7 @@
   {
     "id": 109,
     "name": "Испаритель Smoant Santi S-4 0.35ом (30-35W)",
-    "price": 1,
+    "price": 200,
     "category": "liquid",
     "desc": "Испаритель S-4 для Smoant Santi. 0.35 Ом, 30-35 Вт — яркий вкус и плотный пар.",
     "img": "https://hookahhouse.ru/upload/resize_cache/iblock/5c3/450_450_140cd750bba9870f18aada2478b24840a/8c4w70gg76mm8dmyoeobteen5qz8onhf.jpg"
@@ -810,7 +738,7 @@
   {
     "id": 110,
     "name": "Испаритель Smoant Santi S-5 0.55ом (18-25W)",
-    "price": 1,
+    "price": 190,
     "category": "liquid",
     "desc": "Повторная позиция. Испаритель S-5 0.55 Ом для Santi.",
     "img": "https://hookahhouse.ru/upload/resize_cache/iblock/5c3/450_450_140cd750bba9870f18aada2478b24840a/8c4w70gg76mm8dmyoeobteen5qz8onhf.jpg"
@@ -818,7 +746,7 @@
   {
     "id": 111,
     "name": "Картридж Voopoo Vmate 0.7ом (top fill)",
-    "price": 1,
+    "price": 250,
     "category": "liquid",
     "desc": "Картридж для Voopoo Vmate с верхней заливкой. Сопротивление 0.7 Ом.",
     "img": "https://static.insales-cdn.com/images/products/1/3065/2151476217/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6_Voopoo_VMATE_Top_Fill_V.THRU_Pro_01_%D0%9E%D0%BC_11.jpg"
@@ -826,7 +754,7 @@
   {
     "id": 112,
     "name": "Картридж Voopoo V.thru 0.4ом (top fill 3ml)",
-    "price": 1,
+    "price": 260,
     "category": "liquid",
     "desc": "Картридж для Voopoo V.thru объёмом 3 мл, 0.4 Ом. Верхняя заливка, отличный вкус.",
     "img": "https://static.insales-cdn.com/images/products/1/3065/2151476217/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6_Voopoo_VMATE_Top_Fill_V.THRU_Pro_01_%D0%9E%D0%BC_11.jpg"
@@ -834,7 +762,7 @@
   {
     "id": 113,
     "name": "Картридж Voopoo V.thru 0.7ом (старая версия)",
-    "price": 1,
+    "price": 280,
     "category": "liquid",
     "desc": "Старая версия картриджа V.thru на 0.7 Ом. Совместимость с ранними моделями.",
     "img": "https://static.insales-cdn.com/images/products/1/3065/2151476217/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6_Voopoo_VMATE_Top_Fill_V.THRU_Pro_01_%D0%9E%D0%BC_11.jpg"
@@ -842,7 +770,7 @@
   {
     "id": 114,
     "name": "Испаритель Voopoo PnP-VM6 0.15ом",
-    "price": 1,
+    "price": 300,
     "category": "liquid",
     "desc": "Мощный испаритель Voopoo PnP-VM6. Сопротивление 0.15 Ом, для большого пара (60-80 Вт).",
     "img": "https://vardex.ru/upload/resize_cache/iblock/fe0/400_400_040cd750bba9870f18aada2478b24840a/voopoo-pnp-vm6-isparitel.jpg"
@@ -858,7 +786,7 @@
   {
     "id": 118,
     "name": "Картридж Vaporesso Xros 2ml 0.6ом (3.0 corex)",
-    "price": 1,
+    "price": 260,
     "category": "liquid",
     "desc": "Оригинальный картридж Xros на 2 мл, испаритель 0.6 Ом (Corex 3.0). Отличный MTL.",
     "img": "https://milkyvape.shop/content/images/35/1000x1000l80bc30/kartrydzh-vaporesso-xros-series-corex-3.0-0.6-om-oryhinal-83017865145796.webp"
@@ -866,7 +794,7 @@
   {
     "id": 119,
     "name": "Картридж Vaporesso Xros 3ml 0.4ом (3.0 corex)",
-    "price": 1,
+    "price": 260,
     "category": "liquid",
     "desc": "Картридж Xros 3 мл с испарителем 0.4 Ом. Для более свободной тяги (RDL).",
     "img": "https://static.insales-cdn.com/r/yKA7rt4TKPo/rs:fit:570:570:1/q:100/plain/images/products/1/1108/931841108/import_files_a7_a7c0f3fd5e0311efba951866dae77475_2342a5459d9611efba971866dae77475.jpg@webp"
@@ -874,7 +802,7 @@
   {
     "id": 120,
     "name": "Испаритель Aegis hero b-series 0.3ом (30-38W)",
-    "price": 1,
+    "price": 300,
     "category": "liquid",
     "desc": "Испаритель B-серии для GeekVape Aegis Hero. 0.3 Ом, мощность 30-38 Вт.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/72/91/29172/images/21971/GeekVape_B_Series_B03_Coil_Head.970.jpg"
@@ -882,7 +810,7 @@
   {
     "id": 121,
     "name": "Испаритель Aegis hero b-series 0.4ом (25-35W)",
-    "price": 1,
+    "price": 300,
     "category": "liquid",
     "desc": "Испаритель B-серии 0.4 Ом для Aegis Hero. 25-35 Вт, хороший вкус.",
     "img": "https://am.driptip.su/wa-data/public/shop/products/40/88/28840/images/21411/GeekVape_B_Series_Coils.970.jpg"
@@ -890,7 +818,7 @@
   {
     "id": 122,
     "name": "Картридж GeekVape Aegis HERO 2 (H45) black",
-    "price": 1,
+    "price": 400,
     "category": "liquid",
     "desc": "Картридж для Aegis Hero 2 (H45) чёрного цвета. Объём 5.5 мл, совместим с B-испарителями.",
     "img": "https://fm.driptip.shop/wa-data/public/shop/products/45/39/33945/images/28493/Kartridzh_GeekVape_Hero_2_-_black.970.jpg"
@@ -898,7 +826,7 @@
   {
     "id": 123,
     "name": "Картридж GeekVape Aegis HERO 5 Dark 6.5ml",
-    "price": 1,
+    "price": 400,
     "category": "liquid",
     "desc": "Картридж для Aegis Hero 5 объёмом 6.5 мл. Тёмный цвет, удобная заливка.",
     "img": "https://севастопольскийрынок.рф/wp-content/uploads/2026/01/kartridzh-s-isparitelem-geekvape-h45-0-6-om-5-ml-upakovka-2-sht-800x800-1-250x250.jpg"
@@ -906,7 +834,7 @@
   {
     "id": 124,
     "name": "Картридж GeekVape Aegis NANO 2 (0.6ohm)",
-    "price": 1,
+    "price": 330,
     "category": "liquid",
     "desc": "Картридж для Aegis Nano 2 с испарителем 0.6 Ом. Компактный и надёжный.",
     "img": "https://zaparvape.ru/wa-data/public/shop/products/84/98/9884/images/19722/19722.970.png"
@@ -914,7 +842,7 @@
   {
     "id": 125,
     "name": "Картридж GeekVape Aegis ONE 0.8ohm",
-    "price": 1,
+    "price": 300,
     "category": "liquid",
     "desc": "Картридж Aegis ONE на 0.8 Ом. Идеален для солевых жидкостей.",
     "img": "https://cosmoshop.pro/upload/iblock/876/y716l41s6pgjv1iyius3a8rd3o6kpy9a.jpg"
@@ -922,7 +850,7 @@
   {
     "id": 126,
     "name": "Испаритель Smoant Pasito 2/Knight 80 K3",
-    "price": 1,
+    "price": 300,
     "category": "liquid",
     "desc": "Испаритель K3 для Pasito 2/Knight 80. Уточняйте сопротивление у менеджера.",
     "img": "https://vardex.ru/upload/resize_cache/iblock/b8f/400_400_040cd750bba9870f18aada2478b24840a/isparitel-smoant-pasito-2-knight-80-k1-03-om.jpg"
@@ -930,7 +858,7 @@
   {
     "id": 127,
     "name": "Испаритель Smoant Pasito 2/Knight 80 K5 0.15ом (70-90W)",
-    "price": 1,
+    "price": 340,
     "category": "liquid",
     "desc": "Мощный испаритель K5. 0.15 Ом, 70-90 Вт — максимальный пар.",
     "img": "https://vape.market/wp-content/uploads/2026/01/Isparitel-Smoant-knight_Pasito-II-K5-0.15.jpg"
@@ -938,7 +866,7 @@
   {
     "id": 128,
     "name": "Испаритель Smoant Pasito mini P1 0.6ом",
-    "price": 1,
+    "price": 290,
     "category": "liquid",
     "desc": "Испаритель P1 0.6 Ом для Pasito mini. Универсальный для соли и жижки.",
     "img": "https://vape.market/wp-content/uploads/2025/07/Isparitel-Smoant-Pasito-mini-coil-P-1-0.6.jpg"
@@ -946,7 +874,7 @@
   {
     "id": 129,
     "name": "RINCOE MANTO JELLYBOX NANO 0.5ohm",
-    "price": 1,
+    "price": 300,
     "category": "liquid",
     "desc": "Испаритель Rincoe Manto Jellybox Nano. 0.5 Ом, хороший вкус и плотность пара.",
     "img": "https://4pod.shop/wa-data/public/shop/products/56/66/6656/images/16122/16122.970.jpg"
@@ -954,7 +882,7 @@
   {
     "id": 130,
     "name": "ARQA",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Снюс ARQA (бестабачные никотиновые подушечки). Разные крепости и вкусы.",
     "img": "https://m33.snusmsk.com/image/cache/catalog/snus/arka-11-380x380.jpg"
@@ -962,7 +890,7 @@
   {
     "id": 131,
     "name": "D.L.T.A",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Никотиновые подушечки D.L.T.A. Высокое качество, длительный эффект.",
     "img": "https://nico-kz1.com/wp-content/uploads/2025/10/NICOKAZ-SNUS-DLTA-apricot-430x430.jpg"
@@ -970,7 +898,7 @@
   {
     "id": 132,
     "name": "DRYMOST",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Снюс Drymost. Сухие подушечки с ярким вкусом и быстрым высвобождением никотина.",
     "img": "https://xn--80aaxitdbjk.xn--p1ai/wa-data/public/shop/products/15/52/25215/images/171028/171028.zhevatelnyy-tabak-drymost-sibirium.500x0.png"
@@ -978,7 +906,7 @@
   {
     "id": 133,
     "name": "FAFF 150mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Снюс FAFF крепостью 150 мг. Для опытных пользователей.",
     "img": "https://snustop.com.ua/img/products/faff-top-gum.png"
@@ -986,7 +914,7 @@
   {
     "id": 134,
     "name": "FEDRS Ice cool",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Подушечки FEDRS со вкусом ледяной свежести. Умеренная крепость.",
     "img": "https://snustop.com.ua/img/products/fedrs/feders-ice-cool-mint-hard-limited-maradona.jpg"
@@ -994,7 +922,7 @@
   {
     "id": 135,
     "name": "Glitch Pouches",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Никотиновые пакетики Glitch. Яркие вкусы и быстрый эффект.",
     "img": "https://www.novasens.by/image/cache/catalog/image/cache/catalog/new/glch/coldprgl-800x800.webp"
@@ -1002,7 +930,7 @@
   {
     "id": 136,
     "name": "ICEBERG",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Снюс Iceberg. Мощная свежесть и высокое содержание никотина.",
     "img": "https://foxvs.ru/upload/cache/5bd763edfb0591e87ada3284ce9d64c5.jpg"
@@ -1010,7 +938,7 @@
   {
     "id": 137,
     "name": "ISTERIKA LETHAL 150mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Истерика Lethal 150 мг. Экстремальная крепость для закалённых.",
     "img": "https://q28.shizashop.ru/wp-content/uploads/2024/11/ISTERIKA-Lethal-_-%C2%A6%D0%A1%C2%A6-%C2%A6-%C2%A6%C2%AC-%C2%A6%D0%A3%C2%A6-%C2%A6-.webp"
@@ -1018,7 +946,7 @@
   {
     "id": 138,
     "name": "ISTERIKA LETHAL 205mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Сверхкрепкий снюс — 205 мг. Только для фанатов.",
     "img": "https://static.insales-cdn.com/r/kvpGvg_Mp_g/rs:fit:250:0:1/q:100/plain/images/products/1/2435/967453059/energetik.png@webp"
@@ -1026,7 +954,7 @@
   {
     "id": 139,
     "name": "ISTERIKA vs. ΓΡΕΧ 190 mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Коллаборация Истерика и Грех. 190 мг никотина, уникальный вкус.",
     "img": "https://i.ibb.co/FkwFsvVJ/images.jpg"
@@ -1034,7 +962,7 @@
   {
     "id": 140,
     "name": "ISTERIKA vs. ЗЛАЯ МОНАШКА 201 mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Истерика против Злой Монашки — 201 мг. Ядерная смесь.",
     "img": "https://vapehousecrimea.ru/files/resized/products/screenshot_20_34.600x800.png"
@@ -1042,7 +970,7 @@
   {
     "id": 141,
     "name": "KASTA (копия)",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Снюс Каста — копия. Доступная альтернатива оригиналу.",
     "img": "https://snustop.com.ua/img/products/kasta/kasta-ezhevika.jpg"
@@ -1050,7 +978,7 @@
   {
     "id": 142,
     "name": "The SIMPSONS 100mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Симпсоны 100 мг — классическая крепость, фруктовые вкусы.",
     "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Melon-Mango-Strawberry_result.webp"
@@ -1058,7 +986,7 @@
   {
     "id": 143,
     "name": "The SIMPSONS 150mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Симпсоны 150 мг. Усиленная формула.",
     "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Cherry_result.webp"
@@ -1066,7 +994,7 @@
   {
     "id": 144,
     "name": "The SIMPSONS 200mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Максимальная крепость 200 мг от The Simpsons.",
     "img": "https://q28.shizashop.ru/wp-content/uploads/2025/11/the-simpsons-summer-splash-shizashop-1000x1000.webp"
@@ -1074,7 +1002,7 @@
   {
     "id": 145,
     "name": "The SIMPSONS 50mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Лёгкая версия Симпсонов — 50 мг, для начинающих.",
     "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Blue-Lagoon_result.webp"
@@ -1082,7 +1010,7 @@
   {
     "id": 146,
     "name": "The SIMPSONS 75mg",
-    "price": 1,
+    "price": 370,
     "category": "sale",
     "desc": "Средняя крепость 75 мг от The Simpsons. Баланс вкуса и силы.",
     "img": "https://q28.shizashop.ru/wp-content/uploads/2024/08/The-Simpsons-Blue-Lagoon_result.webp"
@@ -1090,7 +1018,7 @@
   {
     "id": 147,
     "name": "АНАРХИЯ 150mg",
-    "price": 1,
+    "price": 380,
     "category": "sale",
     "desc": "Снюс Анархия 150 мг. Бунтарский вкус и высокая крепость.",
     "img": "https://smoke-hub.net/products/2463_165d6d0e.jpg"
@@ -1098,7 +1026,7 @@
   {
     "id": 148,
     "name": "ГРЕХ Самоубийство 299mg",
-    "price": 1,
+    "price": 380,
     "category": "sale",
     "desc": "Экстремальный снюс «Грех Самоубийство» — 299 мг. Не для новичков!",
     "img": "https://static.insales-cdn.com/r/rc_fVK1OV_k/rs:fit:1000:0:1/q:100/plain/images/products/1/7457/2968714529/photo_2026-04-18_16-16-21.jpg@webp"
@@ -1106,7 +1034,7 @@
   {
     "id": 149,
     "name": "Злая Монашка 120mg",
-    "price": 1,
+    "price": 380,
     "category": "sale",
     "desc": "Снюс Злая Монашка 120 мг. Мистический вкус и мощный удар.",
     "img": "https://nikoptom.store/images/product_images/thumbnail_images/ba7cebed-3b72-4743-ad32-b1551338788e_imageid.png"
