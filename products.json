@@ -1062,5 +1062,45 @@
     "category": "juice",
     "desc": "CATSWILL & MALASIAN 50mg",
     "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/297944cd-2546-4000-92af-02a2688977ea"
+  },
+  {
+    "id": 153,
+    "name": "CATSWILL EXTRA 20mg STRONG",
+    "price": 1,
+    "category": "juice",
+    "desc": "CATSWILL EXTRA 20mg STRONG",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/f14a1c68-acb4-4eff-b652-e3d2e167d202"
+  },
+  {
+    "id": 154,
+    "name": "CATSWILL MONSTERCATS 20 HARD",
+    "price": 1,
+    "category": "juice",
+    "desc": "CATSWILL MONSTERCATS 20 HARD",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/7886369f-22cc-4aa5-8b10-5e331e262843"
+  },
+  {
+    "id": 155,
+    "name": "DOTA",
+    "price": 1,
+    "category": "juice",
+    "desc": "DOTA - ARC WARDEN(клубника киви алоэ) - 4",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/acad1e71-21c9-4c7a-b25c-46b488bd4783"
+  },
+  {
+    "id": 156,
+    "name": "DOTA",
+    "price": 1,
+    "category": "juice",
+    "desc": "DOTA - SOUR Alchemist Виноград Арбуз 30мл 20мг SuperHARD NEW! - 25",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/a3dc8218-7ee2-4a2c-bbc6-c5e9a9e92a2c"
+  },
+  {
+    "id": 157,
+    "name": "Dota & Cats",
+    "price": 1,
+    "category": "juice",
+    "desc": "Dota & Cats - Грейпфрутово - вишневая газировка, 50mg - 4",
+    "img": "https://storage.files.mow1.cloud.servers.ru:8080/v1/SERVERSCOM_2ce3101fed274bd6b24d2124be063f47/image-prod/image/23c9ac06-151b-11ef-0a80-0f710000f2b0/goodimage/9d3e3a59-6af9-4e61-a676-9ae3c8a93f88?temp_url_sig=f9957827f6ea3efb353143170f52b72959590376&temp_url_expires=1781365018&filename=51B64D26-68CB-41E3-856F-753C09D1937E.jpg"
   }
 ]
