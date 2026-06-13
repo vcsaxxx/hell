@@ -1038,5 +1038,29 @@
     "category": "sale",
     "desc": "Снюс Злая Монашка 120 мг. Мистический вкус и мощный удар.",
     "img": "https://nikoptom.store/images/product_images/thumbnail_images/ba7cebed-3b72-4743-ad32-b1551338788e_imageid.png"
+  },
+  {
+    "id": 150,
+    "name": "ANNIMA LOVE",
+    "price": 1,
+    "category": "juice",
+    "desc": "1",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/1c838c70-3139-43f7-82d0-6c4301d50eff"
+  },
+  {
+    "id": 151,
+    "name": "ANNIMA LOVE & ZOMBI (70mg)",
+    "price": 1,
+    "category": "juice",
+    "desc": "ANNIMA LOVE & ZOMBI (70mg)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/0776d49f-0bc8-4205-b4a0-a0d946968b59"
+  },
+  {
+    "id": 152,
+    "name": "CATSWILL & MALASIAN 50mg",
+    "price": 1,
+    "category": "juice",
+    "desc": "CATSWILL & MALASIAN 50mg",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/297944cd-2546-4000-92af-02a2688977ea"
   }
 ]
