@@ -1053,7 +1053,7 @@
     "price": 1,
     "category": "juice",
     "desc": "ANNIMA LOVE & ZOMBI (70mg)",
-    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/0776d49f-0bc8-4205-b4a0-a0d946968b59"
+    "img": "1"
   },
   {
     "id": 152,
@@ -1181,7 +1181,7 @@
     "price": 1,
     "category": "juice",
     "desc": "PODONKI & BLOOD",
-    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/66c828b6-98e0-4729-913f-5d29bfda0991"
+    "img": "1"
   },
   {
     "id": 168,
@@ -1229,7 +1229,7 @@
     "price": 1,
     "category": "juice",
     "desc": "Rick and Morty Bad Acid (Дубль) 60mg",
-    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/dc0168a9-5acf-440b-8cf9-760296bc75ae"
+    "img": "1"
   },
   {
     "id": 174,
@@ -1285,7 +1285,7 @@
     "price": 1,
     "category": "juice",
     "desc": "ЗЛАЯ МОНАШКА & HOTSPOT (70mg)",
-    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/7cc1d59d-188d-4f06-a548-a649048817f3"
+    "img": "1"
   },
   {
     "id": 181,
@@ -1293,7 +1293,7 @@
     "price": 1,
     "category": "sale",
     "desc": "Drymost (никотиновые пластинки)",
-    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/d583d9ea-d7be-41f1-bd21-77581347af98"
+    "img": "1"
   },
   {
     "id": 182,
@@ -1317,7 +1317,7 @@
     "price": 1,
     "category": "disposable",
     "desc": "Chillax 25000",
-    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/27ee3fca-ed0a-4aa5-afc6-bbd24d392631"
+    "img": "ё"
   },
   {
     "id": 185,
@@ -1326,5 +1326,125 @@
     "category": "disposable",
     "desc": "DOJO 40000",
     "img": "1"
+  },
+  {
+    "id": 186,
+    "name": "DRAGBAR N25000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "DRAGBAR N25000",
+    "img": "1"
+  },
+  {
+    "id": 187,
+    "name": "ELFBAR 25000 RAYA D3",
+    "price": 1,
+    "category": "disposable",
+    "desc": "ELFBAR 25000 RAYA D3",
+    "img": "1"
+  },
+  {
+    "id": 188,
+    "name": "ELFBAR SWEET KING 30000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "ELFBAR SWEET KING 30000",
+    "img": "1"
+  },
+  {
+    "id": 189,
+    "name": "FANKY LANDS & LOST MARY SONIC X (без дым.)",
+    "price": 1,
+    "category": "disposable",
+    "desc": "FANKY LANDS & LOST MARY SONIC X (без дым.)",
+    "img": "1"
+  },
+  {
+    "id": 190,
+    "name": "HYPPE 50000 5%",
+    "price": 1,
+    "category": "disposable",
+    "desc": "HYPPE 50000 5%",
+    "img": "1"
+  },
+  {
+    "id": 191,
+    "name": "LOST MARY BM16000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "LOST MARY BM16000",
+    "img": "1"
+  },
+  {
+    "id": 192,
+    "name": "NEXA PRO 30000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "NEXA PRO 30000",
+    "img": "1"
+  },
+  {
+    "id": 193,
+    "name": "PUFFMI DURA V2 9000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "PUFFMI DURA V2 9000",
+    "img": "1"
+  },
+  {
+    "id": 194,
+    "name": "PUFFMI FLORA 25000 англ",
+    "price": 1,
+    "category": "disposable",
+    "desc": "PUFFMI FLORA 25000 англ",
+    "img": "1"
+  },
+  {
+    "id": 195,
+    "name": "PUFFMI FLORA 25000 (рус)",
+    "price": 11,
+    "category": "disposable",
+    "desc": "PUFFMI FLORA 25000 (рус)",
+    "img": "1"
+  },
+  {
+    "id": 196,
+    "name": "PUFFMI PURE 12000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "PUFFMI PURE 12000",
+    "img": "1"
+  },
+  {
+    "id": 197,
+    "name": "PUFFMI TANK 16000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "PUFFMI TANK 16000",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/a2694285-8eb5-4ff3-a7e3-bb95a3f00d62"
+  },
+  {
+    "id": 198,
+    "name": "RICK and MORTY BAD TRIP 25000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "RICK and MORTY BAD TRIP 25000",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/5cdd409a-7095-4c3f-a839-b4fda7e22835"
+  },
+  {
+    "id": 199,
+    "name": "SNOOPYSMOKE 40000 (рус)",
+    "price": 1,
+    "category": "disposable",
+    "desc": "SNOOPYSMOKE 40000 (рус)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/d8e12e9c-7f27-41d2-9f2a-d02651e2fcfd"
+  },
+  {
+    "id": 200,
+    "name": "SNOOPYSMOKE 50000 (рус)",
+    "price": 1,
+    "category": "disposable",
+    "desc": "SNOOPYSMOKE 50000 (рус)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/559bab22-f218-4107-aa8d-8a6b62ce477c"
   }
 ]
