@@ -1286,5 +1286,45 @@
     "category": "juice",
     "desc": "ЗЛАЯ МОНАШКА & HOTSPOT (70mg)",
     "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/7cc1d59d-188d-4f06-a548-a649048817f3"
+  },
+  {
+    "id": 181,
+    "name": "Drymost (никотиновые пластинки)",
+    "price": 1,
+    "category": "sale",
+    "desc": "Drymost (никотиновые пластинки)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/d583d9ea-d7be-41f1-bd21-77581347af98"
+  },
+  {
+    "id": 182,
+    "name": "HYPE (никотиновые пластинки)",
+    "price": 1,
+    "category": "sale",
+    "desc": "HYPE (никотиновые пластинки)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/2b818746-bf0d-483b-835b-d0b45bc17504"
+  },
+  {
+    "id": 183,
+    "name": "KASTA COVID Strong (никотиновые пластинки)",
+    "price": 1,
+    "category": "sale",
+    "desc": "KASTA COVID Strong (никотиновые пластинки)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/34b178be-99e2-4d27-888f-99902ba1bd2e"
+  },
+  {
+    "id": 184,
+    "name": "Chillax 25000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "Chillax 25000",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/27ee3fca-ed0a-4aa5-afc6-bbd24d392631"
+  },
+  {
+    "id": 185,
+    "name": "DOJO 40000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "DOJO 40000",
+    "img": "1"
   }
 ]
