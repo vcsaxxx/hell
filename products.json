@@ -1446,5 +1446,149 @@
     "category": "disposable",
     "desc": "SNOOPYSMOKE 50000 (рус)",
     "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/559bab22-f218-4107-aa8d-8a6b62ce477c"
+  },
+  {
+    "id": 201,
+    "name": "SOTO 20000",
+    "price": 1,
+    "category": "disposable",
+    "desc": "SOTO 20000",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/8221d388-e28e-4ab0-8f75-cf8422a42fe9"
+  },
+  {
+    "id": 202,
+    "name": "VOZOL RAVE 46000 (рус)",
+    "price": 1,
+    "category": "disposable",
+    "desc": "VOZOL RAVE 46000 (рус)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/588998b9-850d-4981-bd7a-08eb86993361"
+  },
+  {
+    "id": 203,
+    "name": "Aegis boost 3",
+    "price": 1,
+    "category": "devices",
+    "desc": "Aegis boost 3",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/c50b7c56-3680-47fb-b9ff-240b38b18f82"
+  },
+  {
+    "id": 204,
+    "name": "Aegis hero 2 (Н45)",
+    "price": 1,
+    "category": "devices",
+    "desc": "Aegis hero 2 (Н45)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/4b67ad90-a8e9-4220-9451-2d0518d625ea"
+  },
+  {
+    "id": 205,
+    "name": "Aegis NANO 3",
+    "price": 1,
+    "category": "devices",
+    "desc": "Aegis NANO 3",
+    "img": "1"
+  },
+  {
+    "id": 206,
+    "name": "Xros Cube",
+    "price": 1,
+    "category": "devices",
+    "desc": "Xros Cube",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/08dc3ac3-6377-478d-ab43-ef5dcdcc8f29"
+  },
+  {
+    "id": 207,
+    "name": "Картридж BRUSKO MINICAN",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж BRUSKO MINICAN 3мл, POD 0.8ohm",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/60f20455-17b3-4645-b789-132c1c271747"
+  },
+  {
+    "id": 208,
+    "name": "GeekVape",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Испаритель Aegis hero b-series 0.2ом (50-58W) //  0.3ом (30-38W)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/a7aca1a5-8dc1-44b9-8ab4-28d25d202c0d"
+  },
+  {
+    "id": 209,
+    "name": "GeekVape",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж GeekVape Aegis HERO 5 Dark 6.5ml // White 6.5ml",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/aa3691cd-116f-4d86-9b55-6cd3ddfb727b"
+  },
+  {
+    "id": 210,
+    "name": "GeekVape",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж GeekVape Aegis NANO 2 (0.6ohm)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/2bd55abc-4131-4d0d-8bef-59de36e252f1"
+  },
+  {
+    "id": 211,
+    "name": "Картридж GeekVape Aegis ONE",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж GeekVape Aegis ONE 0.8ohm",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/e19d504a-8417-4f74-9724-255f045d302d"
+  },
+  {
+    "id": 212,
+    "name": "Картридж Geekvape H45 Cristal Green",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж Geekvape H45 Cristal Green 4ml",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/2c7a0693-5034-4d8e-a444-73c58af6c05c"
+  },
+  {
+    "id": 213,
+    "name": "Испаритель Smoant Battlestar",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Испаритель Smoant Battlestar 0.6ohm",
+    "img": "1"
+  },
+  {
+    "id": 214,
+    "name": "Картридж Pasito 2",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж Pasito 2",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/df8271b5-5fc4-48ad-8f71-a04ddec069f2"
+  },
+  {
+    "id": 215,
+    "name": "Картридж Pasito 3",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж Pasito 3",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/321ad981-7593-4bf5-b288-61f83b7ddc95"
+  },
+  {
+    "id": 216,
+    "name": "Картридж Vaporesso LUXE X",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж Vaporesso LUXE X 5ml 0.6ом corex",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/bf4ef652-12c2-424b-9a1d-a4dbd3e83f0e"
+  },
+  {
+    "id": 217,
+    "name": "Картридж Vaporesso Xros",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж Vaporesso Xros 2ml 0.8ом (3.0 corex)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/84839cdc-4af4-437b-8060-235af3a00ced"
+  },
+  {
+    "id": 218,
+    "name": "Картридж Vaporesso Xros",
+    "price": 1,
+    "category": "liquid",
+    "desc": "Картридж Vaporesso Xros 3ml 0.6ом (3.0 corex)",
+    "img": "https://miniature-prod.moysklad.ru/miniature/23c9ac06-151b-11ef-0a80-0f710000f2b0/documentminiature/85450031-ad53-4136-9af7-078c9751b8db"
   }
 ]
